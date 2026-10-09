@@ -1,0 +1,883 @@
+Country,Region,Year,Vehicle_Segment,Powertrain_Type,Manufacturer,Sales_Volume,Average_Price_USD,Fuel_Efficiency_Km_Per_Litre,Vehicle_Range_Km,Running_Cost_Per_Km_USD,Customer_Primary_Preference,Customer_Satisfaction_Rating
+Australia,Oceania,2020,mass_market,EV,BMW EV,253916,50795,0.0,314,0.04,Cost Efficiency,4.32
+Australia,Oceania,2020,mass_market,Petrol_ICE,Toyota Petrol,177337,36850,12.3,687,0.14,Brand Trust,3.62
+Australia,Oceania,2020,mass_market,Diesel_ICE,Volkswagen Diesel,15769,51967,16.5,891,0.15,Long Distance Highway Range,3.97
+Australia,Oceania,2020,premium,EV,BYD,271216,60658,0.0,519,0.05,Tech Features,4.15
+Australia,Oceania,2020,premium,Petrol_ICE,Toyota Petrol,124654,23005,14.3,843,0.16,Brand Trust,4.63
+Australia,Oceania,2020,premium,Diesel_ICE,Ford ICE,56606,52464,15.1,788,0.15,Torque / Hauling,4.06
+Australia,Oceania,2020,commercial,EV,Volkswagen EV,146296,58483,0.0,307,0.02,Sustainability,4.07
+Australia,Oceania,2020,commercial,Petrol_ICE,Honda Petrol,240551,43939,14.6,653,0.15,Refueling Convenience,3.64
+Australia,Oceania,2020,commercial,Diesel_ICE,Volkswagen Diesel,52065,51557,20.1,970,0.1,Fuel Economy,4.23
+Austria,Europe,2020,mass_market,EV,BMW EV,121182,59276,0.0,381,0.04,Sustainability,4.76
+Austria,Europe,2020,mass_market,Petrol_ICE,Toyota Petrol,276584,25276,13.0,608,0.17,Brand Trust,4.58
+Austria,Europe,2020,mass_market,Diesel_ICE,Ford ICE,54504,25391,20.5,960,0.15,Torque / Hauling,3.74
+Austria,Europe,2020,premium,EV,Volkswagen EV,55324,43392,0.0,461,0.02,Tech Features,3.97
+Austria,Europe,2020,premium,Petrol_ICE,Honda Petrol,163684,39115,13.6,634,0.15,Initial Affordability,4.77
+Austria,Europe,2020,premium,Diesel_ICE,Volkswagen Diesel,113806,31910,18.5,906,0.12,Torque / Hauling,4.13
+Austria,Europe,2020,commercial,EV,BMW EV,110030,57403,0.0,450,0.04,Tech Features,4.51
+Austria,Europe,2020,commercial,Petrol_ICE,Honda Petrol,204899,43052,15.6,842,0.13,Refueling Convenience,4.35
+Austria,Europe,2020,commercial,Diesel_ICE,Volkswagen Diesel,124556,27693,21.2,827,0.14,Long Distance Highway Range,3.98
+Belgium,Europe,2020,mass_market,EV,Tesla,57552,65080,0.0,326,0.03,Cost Efficiency,4.63
+Belgium,Europe,2020,mass_market,Petrol_ICE,Toyota Petrol,61959,25530,14.9,824,0.13,Brand Trust,3.8
+Belgium,Europe,2020,mass_market,Diesel_ICE,Hyundai Diesel,76087,42879,17.8,1017,0.15,Torque / Hauling,4.44
+Belgium,Europe,2020,premium,EV,Tesla,144344,55080,0.0,486,0.04,Sustainability,4.09
+Belgium,Europe,2020,premium,Petrol_ICE,Toyota Petrol,392228,25855,15.8,725,0.13,Refueling Convenience,4.78
+Belgium,Europe,2020,premium,Diesel_ICE,Ford ICE,85467,44894,17.6,954,0.14,Long Distance Highway Range,4.36
+Belgium,Europe,2020,commercial,EV,Tesla,188090,69698,0.0,500,0.03,Sustainability,4.43
+Belgium,Europe,2020,commercial,Petrol_ICE,Honda Petrol,394050,37043,16.1,746,0.14,Brand Trust,3.81
+Belgium,Europe,2020,commercial,Diesel_ICE,Ford ICE,99896,43343,21.6,828,0.13,Long Distance Highway Range,3.74
+Canada,North America,2020,mass_market,EV,BYD,104508,56918,0.0,398,0.03,Sustainability,4.78
+Canada,North America,2020,mass_market,Petrol_ICE,Toyota Petrol,187443,31835,13.5,853,0.17,Initial Affordability,4.66
+Canada,North America,2020,mass_market,Diesel_ICE,Ford ICE,22400,44554,20.1,830,0.14,Torque / Hauling,4.54
+Canada,North America,2020,premium,EV,Hyundai,34366,64299,0.0,412,0.02,Sustainability,4.4
+Canada,North America,2020,premium,Petrol_ICE,Honda Petrol,219426,47759,17.6,752,0.12,Refueling Convenience,4.26
+Canada,North America,2020,premium,Diesel_ICE,Hyundai Diesel,17869,52810,16.6,860,0.1,Torque / Hauling,3.99
+Canada,North America,2020,commercial,EV,Hyundai,280118,57399,0.0,444,0.03,Tech Features,4.04
+Canada,North America,2020,commercial,Petrol_ICE,Honda Petrol,321974,37429,15.5,829,0.14,Refueling Convenience,4.69
+Canada,North America,2020,commercial,Diesel_ICE,Hyundai Diesel,45746,41609,18.5,983,0.13,Long Distance Highway Range,3.83
+China,Asia,2020,mass_market,EV,Tesla,101428,72410,0.0,316,0.05,Sustainability,4.74
+China,Asia,2020,mass_market,Petrol_ICE,Toyota Petrol,338356,30757,16.5,636,0.18,Initial Affordability,4.26
+China,Asia,2020,mass_market,Diesel_ICE,Hyundai Diesel,130294,44554,15.5,952,0.12,Fuel Economy,3.92
+China,Asia,2020,premium,EV,BYD,63282,69584,0.0,522,0.05,Tech Features,4.28
+China,Asia,2020,premium,Petrol_ICE,Honda Petrol,76631,32913,16.0,750,0.13,Brand Trust,3.95
+China,Asia,2020,premium,Diesel_ICE,Ford ICE,120864,37533,17.1,946,0.12,Torque / Hauling,4.64
+China,Asia,2020,commercial,EV,BYD,289576,58355,0.0,434,0.04,Cost Efficiency,3.83
+China,Asia,2020,commercial,Petrol_ICE,Honda Petrol,117575,26655,16.8,742,0.14,Refueling Convenience,4.13
+China,Asia,2020,commercial,Diesel_ICE,Ford ICE,139862,25853,18.3,762,0.15,Torque / Hauling,4.31
+France,Europe,2020,mass_market,EV,Hyundai,72048,39777,0.0,487,0.03,Cost Efficiency,3.93
+France,Europe,2020,mass_market,Petrol_ICE,Toyota Petrol,219819,36388,12.5,646,0.16,Initial Affordability,4.76
+France,Europe,2020,mass_market,Diesel_ICE,Hyundai Diesel,98613,51258,17.8,974,0.12,Fuel Economy,3.9
+France,Europe,2020,premium,EV,Tesla,74434,43308,0.0,439,0.03,Sustainability,4.7
+France,Europe,2020,premium,Petrol_ICE,Honda Petrol,217247,27805,16.3,836,0.14,Initial Affordability,4.49
+France,Europe,2020,premium,Diesel_ICE,Hyundai Diesel,31964,40125,17.9,775,0.13,Fuel Economy,4.51
+France,Europe,2020,commercial,EV,BMW EV,196936,44435,0.0,346,0.02,Sustainability,4.78
+France,Europe,2020,commercial,Petrol_ICE,Honda Petrol,200196,49899,12.6,638,0.14,Refueling Convenience,4.12
+France,Europe,2020,commercial,Diesel_ICE,Volkswagen Diesel,41646,30881,21.6,799,0.1,Fuel Economy,3.62
+Germany,Europe,2020,mass_market,EV,Tesla,230452,70257,0.0,547,0.04,Tech Features,4.73
+Germany,Europe,2020,mass_market,Petrol_ICE,Honda Petrol,89115,45471,17.6,751,0.16,Brand Trust,4.37
+Germany,Europe,2020,mass_market,Diesel_ICE,Ford ICE,19000,30052,20.7,967,0.12,Long Distance Highway Range,4.38
+Germany,Europe,2020,premium,EV,BMW EV,175972,59107,0.0,440,0.03,Sustainability,3.62
+Germany,Europe,2020,premium,Petrol_ICE,Toyota Petrol,394802,45329,14.0,689,0.14,Refueling Convenience,4.42
+Germany,Europe,2020,premium,Diesel_ICE,Hyundai Diesel,80953,49690,18.5,1013,0.13,Long Distance Highway Range,4.72
+Germany,Europe,2020,commercial,EV,BMW EV,25086,68496,0.0,548,0.04,Cost Efficiency,4.5
+Germany,Europe,2020,commercial,Petrol_ICE,Toyota Petrol,349439,39170,16.4,635,0.14,Brand Trust,4.3
+Germany,Europe,2020,commercial,Diesel_ICE,Hyundai Diesel,76476,37043,19.8,978,0.14,Long Distance Highway Range,4.05
+India,Asia,2020,mass_market,EV,Volkswagen EV,230896,49397,0.0,411,0.03,Cost Efficiency,4.67
+India,Asia,2020,mass_market,Petrol_ICE,Honda Petrol,218352,33923,17.8,675,0.14,Refueling Convenience,4.41
+India,Asia,2020,mass_market,Diesel_ICE,Ford ICE,69098,53153,15.6,768,0.11,Long Distance Highway Range,4.26
+India,Asia,2020,premium,EV,Tesla,185016,36167,0.0,338,0.02,Sustainability,4.77
+India,Asia,2020,premium,Petrol_ICE,Honda Petrol,390605,47870,14.6,814,0.15,Brand Trust,3.74
+India,Asia,2020,premium,Diesel_ICE,Hyundai Diesel,16542,46677,16.6,982,0.14,Long Distance Highway Range,4.22
+India,Asia,2020,commercial,EV,BMW EV,119386,61962,0.0,364,0.05,Cost Efficiency,4.74
+India,Asia,2020,commercial,Petrol_ICE,Honda Petrol,208152,21324,14.1,851,0.13,Initial Affordability,4.05
+India,Asia,2020,commercial,Diesel_ICE,Volkswagen Diesel,41790,45570,21.3,738,0.12,Long Distance Highway Range,3.61
+Italy,Europe,2020,mass_market,EV,BYD,291014,38709,0.0,447,0.02,Cost Efficiency,4.59
+Italy,Europe,2020,mass_market,Petrol_ICE,Toyota Petrol,345062,39456,15.5,789,0.14,Initial Affordability,3.7
+Italy,Europe,2020,mass_market,Diesel_ICE,Volkswagen Diesel,118333,38428,20.6,872,0.15,Long Distance Highway Range,3.99
+Italy,Europe,2020,premium,EV,BMW EV,51118,62509,0.0,502,0.05,Tech Features,4.43
+Italy,Europe,2020,premium,Petrol_ICE,Toyota Petrol,154065,26190,13.3,742,0.15,Initial Affordability,4.44
+Italy,Europe,2020,premium,Diesel_ICE,Volkswagen Diesel,93859,26353,18.2,855,0.12,Torque / Hauling,3.83
+Italy,Europe,2020,commercial,EV,BYD,133058,71487,0.0,359,0.04,Cost Efficiency,4.77
+Italy,Europe,2020,commercial,Petrol_ICE,Honda Petrol,60159,26042,12.2,800,0.14,Initial Affordability,4.42
+Italy,Europe,2020,commercial,Diesel_ICE,Volkswagen Diesel,97844,52532,15.5,781,0.12,Long Distance Highway Range,4.34
+Japan,Asia,2020,mass_market,EV,BYD,268946,35009,0.0,408,0.02,Cost Efficiency,4.53
+Japan,Asia,2020,mass_market,Petrol_ICE,Toyota Petrol,140497,28415,12.9,881,0.14,Refueling Convenience,4.59
+Japan,Asia,2020,mass_market,Diesel_ICE,Volkswagen Diesel,61540,45384,15.3,1010,0.14,Long Distance Highway Range,4.24
+Japan,Asia,2020,premium,EV,Hyundai,291864,73757,0.0,480,0.04,Cost Efficiency,4.73
+Japan,Asia,2020,premium,Petrol_ICE,Toyota Petrol,203273,40562,13.4,600,0.18,Initial Affordability,3.85
+Japan,Asia,2020,premium,Diesel_ICE,Volkswagen Diesel,52744,37775,17.5,771,0.1,Torque / Hauling,4.22
+Japan,Asia,2020,commercial,EV,BYD,109844,63538,0.0,311,0.04,Cost Efficiency,3.71
+Japan,Asia,2020,commercial,Petrol_ICE,Toyota Petrol,339770,30040,12.8,806,0.17,Refueling Convenience,4.44
+Japan,Asia,2020,commercial,Diesel_ICE,Volkswagen Diesel,68682,51726,19.3,925,0.12,Torque / Hauling,4.36
+Norway,Europe,2020,mass_market,EV,Hyundai,61868,58386,0.0,490,0.04,Cost Efficiency,4.22
+Norway,Europe,2020,mass_market,Petrol_ICE,Honda Petrol,399383,29550,13.8,705,0.17,Initial Affordability,4.56
+Norway,Europe,2020,mass_market,Diesel_ICE,Volkswagen Diesel,70479,44856,20.4,1039,0.12,Torque / Hauling,4.34
+Norway,Europe,2020,premium,EV,Hyundai,21138,39300,0.0,342,0.03,Tech Features,4.24
+Norway,Europe,2020,premium,Petrol_ICE,Honda Petrol,195286,27350,12.9,607,0.13,Initial Affordability,4.68
+Norway,Europe,2020,premium,Diesel_ICE,Hyundai Diesel,116570,25666,21.8,760,0.11,Fuel Economy,4.59
+Norway,Europe,2020,commercial,EV,BMW EV,232390,72545,0.0,321,0.02,Cost Efficiency,4.24
+Norway,Europe,2020,commercial,Petrol_ICE,Honda Petrol,187979,38777,14.2,677,0.14,Brand Trust,3.65
+Norway,Europe,2020,commercial,Diesel_ICE,Volkswagen Diesel,37574,30240,15.6,1049,0.11,Long Distance Highway Range,3.6
+Spain,Europe,2020,mass_market,EV,Tesla,138582,48568,0.0,398,0.03,Tech Features,4.24
+Spain,Europe,2020,mass_market,Petrol_ICE,Honda Petrol,151317,28717,16.6,677,0.15,Initial Affordability,3.67
+Spain,Europe,2020,mass_market,Diesel_ICE,Volkswagen Diesel,33030,42302,20.2,973,0.12,Fuel Economy,4.08
+Spain,Europe,2020,premium,EV,BMW EV,102542,43152,0.0,327,0.02,Cost Efficiency,4.61
+Spain,Europe,2020,premium,Petrol_ICE,Toyota Petrol,285885,35147,17.3,811,0.15,Refueling Convenience,4.55
+Spain,Europe,2020,premium,Diesel_ICE,Ford ICE,140036,50745,19.1,733,0.13,Long Distance Highway Range,4.28
+Spain,Europe,2020,commercial,EV,BYD,211552,54123,0.0,363,0.04,Tech Features,4.78
+Spain,Europe,2020,commercial,Petrol_ICE,Toyota Petrol,305956,48024,12.0,876,0.13,Brand Trust,4.19
+Spain,Europe,2020,commercial,Diesel_ICE,Ford ICE,91125,38918,20.9,942,0.1,Long Distance Highway Range,4.78
+UK,Europe,2020,mass_market,EV,Hyundai,42778,49043,0.0,303,0.02,Sustainability,3.91
+UK,Europe,2020,mass_market,Petrol_ICE,Honda Petrol,315378,25560,15.3,625,0.14,Initial Affordability,3.82
+UK,Europe,2020,mass_market,Diesel_ICE,Hyundai Diesel,57101,51386,20.2,839,0.11,Torque / Hauling,4.52
+UK,Europe,2020,premium,EV,Hyundai,95066,36828,0.0,399,0.03,Tech Features,3.66
+UK,Europe,2020,premium,Petrol_ICE,Honda Petrol,282353,46615,15.3,737,0.18,Initial Affordability,4.42
+UK,Europe,2020,premium,Diesel_ICE,Hyundai Diesel,23512,26342,15.0,964,0.13,Torque / Hauling,4.09
+UK,Europe,2020,commercial,EV,Volkswagen EV,94156,52988,0.0,535,0.03,Cost Efficiency,4.48
+UK,Europe,2020,commercial,Petrol_ICE,Toyota Petrol,236513,39019,12.4,895,0.16,Initial Affordability,3.77
+UK,Europe,2020,commercial,Diesel_ICE,Volkswagen Diesel,73596,47797,20.8,864,0.14,Fuel Economy,4.36
+USA,North America,2020,mass_market,EV,Tesla,261002,55611,0.0,536,0.04,Sustainability,4.58
+USA,North America,2020,mass_market,Petrol_ICE,Honda Petrol,246118,49287,17.4,724,0.14,Brand Trust,4.13
+USA,North America,2020,mass_market,Diesel_ICE,Ford ICE,82728,26248,17.7,1008,0.15,Fuel Economy,4.25
+USA,North America,2020,premium,EV,Hyundai,92314,62202,0.0,499,0.04,Tech Features,4.65
+USA,North America,2020,premium,Petrol_ICE,Honda Petrol,307552,46611,17.4,756,0.13,Initial Affordability,4.45
+USA,North America,2020,premium,Diesel_ICE,Hyundai Diesel,47154,42334,15.2,785,0.14,Long Distance Highway Range,4.65
+USA,North America,2020,commercial,EV,Volkswagen EV,102394,58710,0.0,408,0.02,Tech Features,4.56
+USA,North America,2020,commercial,Petrol_ICE,Toyota Petrol,104772,47804,14.5,772,0.16,Brand Trust,4.32
+USA,North America,2020,commercial,Diesel_ICE,Ford ICE,90683,25793,19.2,847,0.11,Torque / Hauling,4.01
+Australia,Oceania,2021,mass_market,EV,BYD,447213,35814,0.0,345,0.04,Sustainability,4.3
+Australia,Oceania,2021,mass_market,Petrol_ICE,Toyota Petrol,165885,31473,13.5,703,0.17,Initial Affordability,4.71
+Australia,Oceania,2021,mass_market,Diesel_ICE,Volkswagen Diesel,119263,25126,20.4,986,0.13,Torque / Hauling,3.69
+Australia,Oceania,2021,premium,EV,Tesla,419607,48718,0.0,345,0.03,Sustainability,4.61
+Australia,Oceania,2021,premium,Petrol_ICE,Toyota Petrol,164085,39414,14.0,654,0.13,Brand Trust,4.08
+Australia,Oceania,2021,premium,Diesel_ICE,Hyundai Diesel,71264,34524,16.4,1012,0.1,Long Distance Highway Range,3.74
+Australia,Oceania,2021,commercial,EV,Hyundai,206193,69393,0.0,337,0.03,Sustainability,4.18
+Australia,Oceania,2021,commercial,Petrol_ICE,Toyota Petrol,338512,26783,12.2,850,0.13,Initial Affordability,4.2
+Australia,Oceania,2021,commercial,Diesel_ICE,Hyundai Diesel,34956,47359,17.5,762,0.11,Torque / Hauling,3.62
+Austria,Europe,2021,mass_market,EV,Tesla,326676,62696,0.0,383,0.03,Sustainability,4.63
+Austria,Europe,2021,mass_market,Petrol_ICE,Honda Petrol,192638,29916,15.0,856,0.14,Refueling Convenience,4.5
+Austria,Europe,2021,mass_market,Diesel_ICE,Ford ICE,39442,25951,17.4,857,0.11,Long Distance Highway Range,4.05
+Austria,Europe,2021,premium,EV,Hyundai,233541,63071,0.0,317,0.03,Tech Features,4.14
+Austria,Europe,2021,premium,Petrol_ICE,Toyota Petrol,177717,41467,14.4,765,0.17,Initial Affordability,4.0
+Austria,Europe,2021,premium,Diesel_ICE,Ford ICE,27342,33038,17.6,861,0.12,Fuel Economy,4.77
+Austria,Europe,2021,commercial,EV,BMW EV,94197,54846,0.0,307,0.02,Tech Features,3.9
+Austria,Europe,2021,commercial,Petrol_ICE,Toyota Petrol,332822,30682,12.1,653,0.14,Initial Affordability,3.81
+Austria,Europe,2021,commercial,Diesel_ICE,Volkswagen Diesel,100595,28054,20.6,787,0.14,Torque / Hauling,4.6
+Belgium,Europe,2021,mass_market,EV,BYD,372705,56389,0.0,306,0.04,Cost Efficiency,3.85
+Belgium,Europe,2021,mass_market,Petrol_ICE,Toyota Petrol,224466,40079,17.3,884,0.15,Refueling Convenience,4.69
+Belgium,Europe,2021,mass_market,Diesel_ICE,Ford ICE,38236,47419,16.8,894,0.13,Long Distance Highway Range,4.01
+Belgium,Europe,2021,premium,EV,Hyundai,412053,42083,0.0,543,0.05,Cost Efficiency,4.64
+Belgium,Europe,2021,premium,Petrol_ICE,Honda Petrol,59063,22106,14.8,823,0.15,Brand Trust,4.21
+Belgium,Europe,2021,premium,Diesel_ICE,Hyundai Diesel,50367,29033,17.8,900,0.11,Fuel Economy,4.11
+Belgium,Europe,2021,commercial,EV,BYD,182883,46372,0.0,514,0.04,Sustainability,4.7
+Belgium,Europe,2021,commercial,Petrol_ICE,Honda Petrol,363412,46665,15.0,633,0.15,Initial Affordability,4.2
+Belgium,Europe,2021,commercial,Diesel_ICE,Volkswagen Diesel,16622,40988,16.0,726,0.15,Torque / Hauling,4.48
+Canada,North America,2021,mass_market,EV,BYD,158772,43646,0.0,472,0.05,Cost Efficiency,4.06
+Canada,North America,2021,mass_market,Petrol_ICE,Honda Petrol,207469,40609,17.8,792,0.12,Brand Trust,3.89
+Canada,North America,2021,mass_market,Diesel_ICE,Ford ICE,72492,45234,17.5,812,0.14,Fuel Economy,4.74
+Canada,North America,2021,premium,EV,BMW EV,29559,64077,0.0,355,0.03,Tech Features,3.91
+Canada,North America,2021,premium,Petrol_ICE,Honda Petrol,186922,32112,17.7,800,0.17,Initial Affordability,4.01
+Canada,North America,2021,premium,Diesel_ICE,Hyundai Diesel,69912,26240,19.8,741,0.12,Fuel Economy,4.58
+Canada,North America,2021,commercial,EV,BYD,273369,44650,0.0,311,0.03,Tech Features,4.7
+Canada,North America,2021,commercial,Petrol_ICE,Toyota Petrol,220553,23640,15.1,611,0.15,Brand Trust,4.48
+Canada,North America,2021,commercial,Diesel_ICE,Hyundai Diesel,26344,26750,19.8,897,0.15,Torque / Hauling,4.19
+China,Asia,2021,mass_market,EV,BMW EV,247362,60064,0.0,325,0.02,Sustainability,4.31
+China,Asia,2021,mass_market,Petrol_ICE,Toyota Petrol,183254,42297,14.8,869,0.13,Brand Trust,3.96
+China,Asia,2021,mass_market,Diesel_ICE,Volkswagen Diesel,95559,33007,18.0,781,0.14,Fuel Economy,4.15
+China,Asia,2021,premium,EV,Hyundai,213450,56776,0.0,407,0.02,Sustainability,4.66
+China,Asia,2021,premium,Petrol_ICE,Toyota Petrol,174055,40662,12.4,614,0.17,Initial Affordability,4.39
+China,Asia,2021,premium,Diesel_ICE,Hyundai Diesel,22564,52345,21.2,807,0.11,Fuel Economy,4.15
+China,Asia,2021,commercial,EV,BMW EV,391023,72114,0.0,440,0.03,Tech Features,3.68
+China,Asia,2021,commercial,Petrol_ICE,Honda Petrol,56371,32316,12.5,844,0.15,Brand Trust,4.08
+China,Asia,2021,commercial,Diesel_ICE,Ford ICE,120373,42304,17.9,764,0.11,Fuel Economy,4.16
+France,Europe,2021,mass_market,EV,BYD,89853,67413,0.0,367,0.04,Cost Efficiency,3.65
+France,Europe,2021,mass_market,Petrol_ICE,Toyota Petrol,261888,44557,14.6,739,0.18,Initial Affordability,4.54
+France,Europe,2021,mass_market,Diesel_ICE,Ford ICE,146878,51039,21.6,710,0.15,Torque / Hauling,3.8
+France,Europe,2021,premium,EV,BMW EV,256305,50934,0.0,542,0.04,Sustainability,3.66
+France,Europe,2021,premium,Petrol_ICE,Toyota Petrol,286584,38649,13.1,858,0.17,Initial Affordability,3.67
+France,Europe,2021,premium,Diesel_ICE,Hyundai Diesel,81262,44120,21.5,940,0.11,Torque / Hauling,4.22
+France,Europe,2021,commercial,EV,Hyundai,353565,59578,0.0,529,0.04,Cost Efficiency,4.24
+France,Europe,2021,commercial,Petrol_ICE,Honda Petrol,230792,24675,17.2,866,0.17,Brand Trust,3.93
+France,Europe,2021,commercial,Diesel_ICE,Hyundai Diesel,80160,42602,21.0,869,0.14,Long Distance Highway Range,4.26
+Germany,Europe,2021,mass_market,EV,Volkswagen EV,165318,50585,0.0,506,0.02,Tech Features,4.47
+Germany,Europe,2021,mass_market,Petrol_ICE,Honda Petrol,152217,29105,17.8,775,0.16,Initial Affordability,4.79
+Germany,Europe,2021,mass_market,Diesel_ICE,Volkswagen Diesel,140991,34516,19.1,885,0.13,Torque / Hauling,4.25
+Germany,Europe,2021,premium,EV,Hyundai,313848,55695,0.0,379,0.04,Cost Efficiency,3.79
+Germany,Europe,2021,premium,Petrol_ICE,Toyota Petrol,145228,20362,16.2,769,0.13,Brand Trust,4.5
+Germany,Europe,2021,premium,Diesel_ICE,Volkswagen Diesel,63874,41940,18.3,730,0.14,Torque / Hauling,4.58
+Germany,Europe,2021,commercial,EV,BYD,142602,71766,0.0,399,0.04,Cost Efficiency,4.21
+Germany,Europe,2021,commercial,Petrol_ICE,Honda Petrol,204134,30177,12.5,754,0.18,Initial Affordability,3.74
+Germany,Europe,2021,commercial,Diesel_ICE,Volkswagen Diesel,46575,54346,17.0,773,0.12,Torque / Hauling,4.01
+India,Asia,2021,mass_market,EV,BMW EV,289071,61660,0.0,321,0.05,Sustainability,4.74
+India,Asia,2021,mass_market,Petrol_ICE,Honda Petrol,221264,34859,16.3,792,0.12,Brand Trust,4.62
+India,Asia,2021,mass_market,Diesel_ICE,Ford ICE,130374,49860,15.9,706,0.1,Long Distance Highway Range,3.99
+India,Asia,2021,premium,EV,BYD,294318,62082,0.0,514,0.03,Sustainability,4.16
+India,Asia,2021,premium,Petrol_ICE,Toyota Petrol,185360,43650,17.1,870,0.17,Initial Affordability,3.96
+India,Asia,2021,premium,Diesel_ICE,Volkswagen Diesel,93797,44539,15.9,894,0.15,Long Distance Highway Range,4.73
+India,Asia,2021,commercial,EV,Tesla,161703,69450,0.0,496,0.05,Cost Efficiency,3.98
+India,Asia,2021,commercial,Petrol_ICE,Honda Petrol,286693,39982,13.3,880,0.16,Refueling Convenience,4.64
+India,Asia,2021,commercial,Diesel_ICE,Volkswagen Diesel,33639,44994,16.4,792,0.14,Fuel Economy,4.14
+Italy,Europe,2021,mass_market,EV,Hyundai,271659,65707,0.0,392,0.02,Cost Efficiency,4.69
+Italy,Europe,2021,mass_market,Petrol_ICE,Honda Petrol,354242,35251,14.8,821,0.13,Initial Affordability,4.33
+Italy,Europe,2021,mass_market,Diesel_ICE,Volkswagen Diesel,49531,33712,16.6,1018,0.13,Long Distance Highway Range,3.92
+Italy,Europe,2021,premium,EV,Hyundai,178845,51967,0.0,363,0.03,Cost Efficiency,3.69
+Italy,Europe,2021,premium,Petrol_ICE,Honda Petrol,201087,49009,17.8,765,0.14,Initial Affordability,4.51
+Italy,Europe,2021,premium,Diesel_ICE,Hyundai Diesel,66195,45581,15.3,913,0.14,Long Distance Highway Range,3.89
+Italy,Europe,2021,commercial,EV,Volkswagen EV,392448,73559,0.0,447,0.03,Sustainability,3.99
+Italy,Europe,2021,commercial,Petrol_ICE,Toyota Petrol,89153,26368,17.3,676,0.12,Refueling Convenience,3.99
+Italy,Europe,2021,commercial,Diesel_ICE,Volkswagen Diesel,65861,35361,20.8,805,0.11,Long Distance Highway Range,4.74
+Japan,Asia,2021,mass_market,EV,Hyundai,187980,73850,0.0,433,0.04,Cost Efficiency,3.66
+Japan,Asia,2021,mass_market,Petrol_ICE,Honda Petrol,197087,20552,17.6,777,0.16,Refueling Convenience,4.33
+Japan,Asia,2021,mass_market,Diesel_ICE,Ford ICE,115734,51630,21.3,1013,0.14,Fuel Economy,4.37
+Japan,Asia,2021,premium,EV,Hyundai,300243,71877,0.0,509,0.02,Tech Features,4.38
+Japan,Asia,2021,premium,Petrol_ICE,Toyota Petrol,172632,33612,13.3,654,0.15,Initial Affordability,3.82
+Japan,Asia,2021,premium,Diesel_ICE,Ford ICE,125198,27356,15.3,999,0.13,Torque / Hauling,4.38
+Japan,Asia,2021,commercial,EV,Hyundai,23760,60658,0.0,455,0.03,Tech Features,3.86
+Japan,Asia,2021,commercial,Petrol_ICE,Toyota Petrol,318453,42462,13.5,812,0.16,Initial Affordability,4.62
+Japan,Asia,2021,commercial,Diesel_ICE,Volkswagen Diesel,40963,28453,21.1,795,0.13,Torque / Hauling,4.47
+Norway,Europe,2021,mass_market,EV,BYD,145755,61958,0.0,463,0.03,Sustainability,4.79
+Norway,Europe,2021,mass_market,Petrol_ICE,Toyota Petrol,216313,29461,13.3,836,0.15,Initial Affordability,4.48
+Norway,Europe,2021,mass_market,Diesel_ICE,Volkswagen Diesel,34975,51723,16.3,713,0.15,Fuel Economy,4.1
+Norway,Europe,2021,premium,EV,Volkswagen EV,392796,39648,0.0,424,0.03,Tech Features,4.03
+Norway,Europe,2021,premium,Petrol_ICE,Honda Petrol,277697,23814,15.9,627,0.14,Initial Affordability,3.61
+Norway,Europe,2021,premium,Diesel_ICE,Hyundai Diesel,101475,53599,16.7,986,0.11,Fuel Economy,4.13
+Norway,Europe,2021,commercial,EV,BYD,244101,40724,0.0,375,0.04,Cost Efficiency,4.14
+Norway,Europe,2021,commercial,Petrol_ICE,Toyota Petrol,381674,43499,13.5,883,0.12,Initial Affordability,4.03
+Norway,Europe,2021,commercial,Diesel_ICE,Hyundai Diesel,30563,51788,20.9,743,0.12,Fuel Economy,4.64
+Spain,Europe,2021,mass_market,EV,BMW EV,410073,52658,0.0,447,0.03,Sustainability,3.75
+Spain,Europe,2021,mass_market,Petrol_ICE,Honda Petrol,262500,45619,12.2,718,0.13,Initial Affordability,4.72
+Spain,Europe,2021,mass_market,Diesel_ICE,Volkswagen Diesel,79178,26229,17.8,941,0.15,Fuel Economy,3.62
+Spain,Europe,2021,premium,EV,BMW EV,150816,58857,0.0,484,0.04,Tech Features,4.23
+Spain,Europe,2021,premium,Petrol_ICE,Honda Petrol,49110,27595,12.8,725,0.14,Refueling Convenience,3.84
+Spain,Europe,2021,premium,Diesel_ICE,Hyundai Diesel,136863,35225,15.7,963,0.11,Torque / Hauling,4.64
+Spain,Europe,2021,commercial,EV,BYD,347031,73006,0.0,470,0.04,Sustainability,3.89
+Spain,Europe,2021,commercial,Petrol_ICE,Toyota Petrol,326233,23719,15.4,675,0.13,Initial Affordability,4.43
+Spain,Europe,2021,commercial,Diesel_ICE,Volkswagen Diesel,116376,38598,17.8,768,0.13,Torque / Hauling,4.39
+UK,Europe,2021,mass_market,EV,Tesla,325227,52087,0.0,460,0.03,Cost Efficiency,4.54
+UK,Europe,2021,mass_market,Petrol_ICE,Honda Petrol,237096,27114,15.9,701,0.14,Refueling Convenience,4.13
+UK,Europe,2021,mass_market,Diesel_ICE,Hyundai Diesel,51321,32761,20.6,1038,0.14,Long Distance Highway Range,3.74
+UK,Europe,2021,premium,EV,BMW EV,360426,61200,0.0,442,0.04,Sustainability,4.08
+UK,Europe,2021,premium,Petrol_ICE,Honda Petrol,180180,32178,15.3,823,0.14,Refueling Convenience,3.69
+UK,Europe,2021,premium,Diesel_ICE,Hyundai Diesel,40537,27989,17.7,981,0.15,Torque / Hauling,4.18
+UK,Europe,2021,commercial,EV,Tesla,109044,36177,0.0,311,0.02,Cost Efficiency,3.9
+UK,Europe,2021,commercial,Petrol_ICE,Toyota Petrol,86819,31022,16.6,620,0.13,Brand Trust,4.68
+UK,Europe,2021,commercial,Diesel_ICE,Hyundai Diesel,102163,31542,19.6,750,0.1,Long Distance Highway Range,4.18
+USA,North America,2021,mass_market,EV,Volkswagen EV,154239,41012,0.0,539,0.04,Sustainability,3.97
+USA,North America,2021,mass_market,Petrol_ICE,Toyota Petrol,243502,33467,15.5,705,0.16,Refueling Convenience,4.08
+USA,North America,2021,mass_market,Diesel_ICE,Ford ICE,101365,44914,19.8,773,0.14,Fuel Economy,4.45
+USA,North America,2021,premium,EV,BMW EV,71229,59489,0.0,341,0.05,Sustainability,4.57
+USA,North America,2021,premium,Petrol_ICE,Honda Petrol,278976,41675,15.2,646,0.18,Brand Trust,4.37
+USA,North America,2021,premium,Diesel_ICE,Volkswagen Diesel,52384,41393,17.5,869,0.15,Long Distance Highway Range,3.88
+USA,North America,2021,commercial,EV,Hyundai,117252,74575,0.0,399,0.03,Sustainability,4.57
+USA,North America,2021,commercial,Petrol_ICE,Honda Petrol,274386,36035,14.7,841,0.13,Initial Affordability,4.48
+USA,North America,2021,commercial,Diesel_ICE,Ford ICE,32633,54344,18.7,849,0.1,Fuel Economy,3.88
+Australia,Oceania,2022,mass_market,EV,Hyundai,181560,58711,0.0,437,0.03,Cost Efficiency,4.31
+Australia,Oceania,2022,mass_market,Petrol_ICE,Honda Petrol,309565,41400,13.6,862,0.16,Brand Trust,4.13
+Australia,Oceania,2022,mass_market,Diesel_ICE,Hyundai Diesel,46910,53584,15.1,979,0.11,Fuel Economy,4.32
+Australia,Oceania,2022,premium,EV,BMW EV,155572,45793,0.0,537,0.03,Cost Efficiency,4.67
+Australia,Oceania,2022,premium,Petrol_ICE,Toyota Petrol,318600,41856,14.1,795,0.15,Refueling Convenience,4.4
+Australia,Oceania,2022,premium,Diesel_ICE,Hyundai Diesel,51378,29255,16.9,899,0.13,Torque / Hauling,3.88
+Australia,Oceania,2022,commercial,EV,BYD,200452,43533,0.0,514,0.03,Sustainability,4.27
+Australia,Oceania,2022,commercial,Petrol_ICE,Honda Petrol,296353,29686,14.0,749,0.15,Initial Affordability,3.81
+Australia,Oceania,2022,commercial,Diesel_ICE,Hyundai Diesel,25526,28374,16.2,805,0.1,Long Distance Highway Range,4.59
+Austria,Europe,2022,mass_market,EV,Volkswagen EV,294476,64328,0.0,435,0.04,Sustainability,3.88
+Austria,Europe,2022,mass_market,Petrol_ICE,Honda Petrol,142747,43154,12.1,847,0.15,Initial Affordability,4.41
+Austria,Europe,2022,mass_market,Diesel_ICE,Ford ICE,136237,48505,21.1,971,0.13,Torque / Hauling,3.68
+Austria,Europe,2022,premium,EV,BYD,497056,40782,0.0,536,0.03,Cost Efficiency,4.02
+Austria,Europe,2022,premium,Petrol_ICE,Toyota Petrol,218936,38880,17.0,789,0.15,Refueling Convenience,4.22
+Austria,Europe,2022,premium,Diesel_ICE,Ford ICE,98362,49981,19.0,1015,0.14,Torque / Hauling,4.2
+Austria,Europe,2022,commercial,EV,BYD,415456,47329,0.0,472,0.03,Sustainability,4.64
+Austria,Europe,2022,commercial,Petrol_ICE,Honda Petrol,113861,39522,13.3,613,0.12,Initial Affordability,3.63
+Austria,Europe,2022,commercial,Diesel_ICE,Volkswagen Diesel,35609,44362,21.7,955,0.15,Torque / Hauling,3.76
+Belgium,Europe,2022,mass_market,EV,Volkswagen EV,277236,64984,0.0,394,0.03,Sustainability,4.68
+Belgium,Europe,2022,mass_market,Petrol_ICE,Toyota Petrol,185788,35795,17.7,624,0.16,Refueling Convenience,3.68
+Belgium,Europe,2022,mass_market,Diesel_ICE,Ford ICE,32347,41920,21.7,711,0.15,Long Distance Highway Range,4.72
+Belgium,Europe,2022,premium,EV,BMW EV,132716,70262,0.0,342,0.04,Tech Features,3.78
+Belgium,Europe,2022,premium,Petrol_ICE,Toyota Petrol,342066,33828,13.2,729,0.15,Refueling Convenience,3.67
+Belgium,Europe,2022,premium,Diesel_ICE,Ford ICE,134863,50032,16.7,798,0.1,Torque / Hauling,3.92
+Belgium,Europe,2022,commercial,EV,Volkswagen EV,569912,66823,0.0,396,0.04,Tech Features,3.87
+Belgium,Europe,2022,commercial,Petrol_ICE,Honda Petrol,239900,29011,15.2,830,0.16,Initial Affordability,4.66
+Belgium,Europe,2022,commercial,Diesel_ICE,Hyundai Diesel,86229,25767,17.5,854,0.12,Torque / Hauling,3.81
+Canada,North America,2022,mass_market,EV,BYD,325492,38716,0.0,361,0.03,Sustainability,4.55
+Canada,North America,2022,mass_market,Petrol_ICE,Honda Petrol,194249,44022,13.1,664,0.14,Refueling Convenience,3.89
+Canada,North America,2022,mass_market,Diesel_ICE,Hyundai Diesel,31052,27385,21.7,863,0.12,Long Distance Highway Range,4.26
+Canada,North America,2022,premium,EV,Volkswagen EV,563480,57420,0.0,482,0.02,Sustainability,3.78
+Canada,North America,2022,premium,Petrol_ICE,Honda Petrol,339631,48411,14.9,832,0.16,Initial Affordability,4.15
+Canada,North America,2022,premium,Diesel_ICE,Hyundai Diesel,132360,45584,19.6,828,0.14,Long Distance Highway Range,3.94
+Canada,North America,2022,commercial,EV,Volkswagen EV,381412,55281,0.0,531,0.03,Tech Features,4.19
+Canada,North America,2022,commercial,Petrol_ICE,Toyota Petrol,259861,38631,15.7,772,0.13,Initial Affordability,4.13
+Canada,North America,2022,commercial,Diesel_ICE,Ford ICE,75920,53758,19.6,851,0.1,Long Distance Highway Range,4.07
+China,Asia,2022,mass_market,EV,Volkswagen EV,584856,44866,0.0,442,0.05,Tech Features,3.82
+China,Asia,2022,mass_market,Petrol_ICE,Toyota Petrol,199210,47065,15.3,607,0.14,Refueling Convenience,3.7
+China,Asia,2022,mass_market,Diesel_ICE,Hyundai Diesel,54279,36483,17.1,955,0.11,Long Distance Highway Range,4.06
+China,Asia,2022,premium,EV,Tesla,410644,41979,0.0,468,0.05,Tech Features,3.65
+China,Asia,2022,premium,Petrol_ICE,Honda Petrol,349001,22196,13.8,857,0.16,Initial Affordability,4.7
+China,Asia,2022,premium,Diesel_ICE,Volkswagen Diesel,84519,34503,15.9,970,0.11,Torque / Hauling,3.87
+China,Asia,2022,commercial,EV,Volkswagen EV,300476,73714,0.0,549,0.04,Sustainability,3.93
+China,Asia,2022,commercial,Petrol_ICE,Honda Petrol,217876,31435,15.0,712,0.16,Brand Trust,4.41
+China,Asia,2022,commercial,Diesel_ICE,Ford ICE,135029,40990,20.9,932,0.13,Long Distance Highway Range,4.51
+France,Europe,2022,mass_market,EV,Volkswagen EV,522352,50997,0.0,523,0.03,Sustainability,4.5
+France,Europe,2022,mass_market,Petrol_ICE,Honda Petrol,229784,30773,12.3,857,0.13,Brand Trust,3.71
+France,Europe,2022,mass_market,Diesel_ICE,Ford ICE,59638,51062,16.1,743,0.14,Fuel Economy,4.51
+France,Europe,2022,premium,EV,Hyundai,287648,43706,0.0,322,0.04,Tech Features,4.29
+France,Europe,2022,premium,Petrol_ICE,Toyota Petrol,311640,43679,13.0,785,0.12,Initial Affordability,4.49
+France,Europe,2022,premium,Diesel_ICE,Ford ICE,53787,40463,17.8,709,0.14,Torque / Hauling,4.34
+France,Europe,2022,commercial,EV,BMW EV,327460,66656,0.0,436,0.04,Sustainability,4.62
+France,Europe,2022,commercial,Petrol_ICE,Toyota Petrol,181877,23083,12.1,720,0.18,Initial Affordability,4.41
+France,Europe,2022,commercial,Diesel_ICE,Ford ICE,115082,49286,18.3,910,0.15,Fuel Economy,4.14
+Germany,Europe,2022,mass_market,EV,Hyundai,450156,53313,0.0,453,0.03,Cost Efficiency,3.6
+Germany,Europe,2022,mass_market,Petrol_ICE,Honda Petrol,159654,47028,15.7,859,0.13,Initial Affordability,3.71
+Germany,Europe,2022,mass_market,Diesel_ICE,Hyundai Diesel,42766,35822,19.5,915,0.11,Torque / Hauling,4.27
+Germany,Europe,2022,premium,EV,BYD,166908,46005,0.0,457,0.04,Tech Features,3.63
+Germany,Europe,2022,premium,Petrol_ICE,Toyota Petrol,108926,25997,12.4,708,0.16,Refueling Convenience,4.45
+Germany,Europe,2022,premium,Diesel_ICE,Volkswagen Diesel,72775,41044,17.3,882,0.11,Fuel Economy,3.86
+Germany,Europe,2022,commercial,EV,Hyundai,358920,60051,0.0,346,0.05,Sustainability,4.37
+Germany,Europe,2022,commercial,Petrol_ICE,Honda Petrol,336195,37043,13.1,797,0.18,Brand Trust,4.49
+Germany,Europe,2022,commercial,Diesel_ICE,Hyundai Diesel,18471,34028,19.0,837,0.12,Long Distance Highway Range,4.44
+India,Asia,2022,mass_market,EV,BMW EV,569876,67373,0.0,497,0.04,Cost Efficiency,4.54
+India,Asia,2022,mass_market,Petrol_ICE,Honda Petrol,123369,45122,13.4,668,0.17,Initial Affordability,4.18
+India,Asia,2022,mass_market,Diesel_ICE,Volkswagen Diesel,123899,40941,15.6,930,0.15,Fuel Economy,4.12
+India,Asia,2022,premium,EV,Volkswagen EV,295680,48493,0.0,407,0.02,Tech Features,4.71
+India,Asia,2022,premium,Petrol_ICE,Toyota Petrol,102424,32835,12.4,705,0.14,Brand Trust,3.9
+India,Asia,2022,premium,Diesel_ICE,Volkswagen Diesel,34675,33461,16.9,881,0.12,Long Distance Highway Range,4.53
+India,Asia,2022,commercial,EV,Volkswagen EV,187200,65508,0.0,483,0.02,Sustainability,4.69
+India,Asia,2022,commercial,Petrol_ICE,Toyota Petrol,349443,37073,16.6,669,0.17,Refueling Convenience,4.48
+India,Asia,2022,commercial,Diesel_ICE,Ford ICE,81707,46975,21.2,853,0.12,Torque / Hauling,4.48
+Italy,Europe,2022,mass_market,EV,BMW EV,132912,69521,0.0,515,0.03,Tech Features,4.77
+Italy,Europe,2022,mass_market,Petrol_ICE,Toyota Petrol,69055,30123,13.1,760,0.13,Brand Trust,3.9
+Italy,Europe,2022,mass_market,Diesel_ICE,Ford ICE,144350,25597,18.8,851,0.11,Torque / Hauling,4.08
+Italy,Europe,2022,premium,EV,BYD,93896,56008,0.0,497,0.03,Sustainability,4.18
+Italy,Europe,2022,premium,Petrol_ICE,Honda Petrol,53140,48164,16.0,656,0.16,Refueling Convenience,4.63
+Italy,Europe,2022,premium,Diesel_ICE,Ford ICE,93258,37924,18.8,1043,0.14,Torque / Hauling,4.57
+Italy,Europe,2022,commercial,EV,Hyundai,215108,51994,0.0,362,0.03,Tech Features,4.65
+Italy,Europe,2022,commercial,Petrol_ICE,Honda Petrol,245977,29283,16.5,742,0.13,Initial Affordability,4.39
+Italy,Europe,2022,commercial,Diesel_ICE,Hyundai Diesel,15781,41282,18.2,757,0.14,Long Distance Highway Range,3.63
+Japan,Asia,2022,mass_market,EV,Hyundai,347264,57263,0.0,499,0.03,Sustainability,4.2
+Japan,Asia,2022,mass_market,Petrol_ICE,Toyota Petrol,61253,35795,16.9,777,0.13,Initial Affordability,4.76
+Japan,Asia,2022,mass_market,Diesel_ICE,Volkswagen Diesel,148623,31411,15.7,996,0.13,Long Distance Highway Range,3.97
+Japan,Asia,2022,premium,EV,BYD,171964,48521,0.0,359,0.04,Sustainability,3.98
+Japan,Asia,2022,premium,Petrol_ICE,Toyota Petrol,46530,31116,17.4,639,0.15,Initial Affordability,3.64
+Japan,Asia,2022,premium,Diesel_ICE,Ford ICE,48380,39203,17.2,945,0.14,Long Distance Highway Range,4.56
+Japan,Asia,2022,commercial,EV,Tesla,342740,74951,0.0,362,0.03,Cost Efficiency,4.4
+Japan,Asia,2022,commercial,Petrol_ICE,Honda Petrol,159052,43713,18.0,822,0.16,Brand Trust,4.42
+Japan,Asia,2022,commercial,Diesel_ICE,Hyundai Diesel,70426,35592,20.8,853,0.1,Long Distance Highway Range,4.77
+Norway,Europe,2022,mass_market,EV,BYD,411024,44587,0.0,433,0.04,Cost Efficiency,4.17
+Norway,Europe,2022,mass_market,Petrol_ICE,Toyota Petrol,283051,46475,14.1,825,0.17,Refueling Convenience,3.81
+Norway,Europe,2022,mass_market,Diesel_ICE,Volkswagen Diesel,135987,45215,15.7,862,0.11,Long Distance Highway Range,4.49
+Norway,Europe,2022,premium,EV,Tesla,155464,74864,0.0,368,0.04,Sustainability,4.77
+Norway,Europe,2022,premium,Petrol_ICE,Honda Petrol,229139,47516,12.6,847,0.12,Brand Trust,3.8
+Norway,Europe,2022,premium,Diesel_ICE,Hyundai Diesel,53547,53795,20.9,1042,0.1,Fuel Economy,4.43
+Norway,Europe,2022,commercial,EV,Hyundai,371840,72396,0.0,356,0.03,Sustainability,4.51
+Norway,Europe,2022,commercial,Petrol_ICE,Toyota Petrol,226339,36843,16.6,851,0.16,Refueling Convenience,4.38
+Norway,Europe,2022,commercial,Diesel_ICE,Ford ICE,101661,32418,18.9,790,0.12,Torque / Hauling,4.15
+Spain,Europe,2022,mass_market,EV,Hyundai,30636,55980,0.0,446,0.05,Sustainability,4.17
+Spain,Europe,2022,mass_market,Petrol_ICE,Honda Petrol,279472,28472,16.4,753,0.18,Refueling Convenience,4.63
+Spain,Europe,2022,mass_market,Diesel_ICE,Volkswagen Diesel,30282,44330,19.9,983,0.1,Fuel Economy,4.35
+Spain,Europe,2022,premium,EV,Tesla,64008,48947,0.0,318,0.05,Sustainability,3.86
+Spain,Europe,2022,premium,Petrol_ICE,Honda Petrol,74228,34140,12.6,885,0.12,Initial Affordability,4.16
+Spain,Europe,2022,premium,Diesel_ICE,Hyundai Diesel,61733,54898,17.1,1033,0.14,Fuel Economy,4.68
+Spain,Europe,2022,commercial,EV,Tesla,535100,49849,0.0,424,0.04,Cost Efficiency,4.79
+Spain,Europe,2022,commercial,Petrol_ICE,Honda Petrol,373054,41174,13.4,757,0.15,Brand Trust,4.79
+Spain,Europe,2022,commercial,Diesel_ICE,Hyundai Diesel,110998,42044,16.8,871,0.11,Long Distance Highway Range,4.23
+UK,Europe,2022,mass_market,EV,Tesla,205612,60634,0.0,525,0.05,Cost Efficiency,3.63
+UK,Europe,2022,mass_market,Petrol_ICE,Honda Petrol,72174,21447,17.5,773,0.17,Initial Affordability,4.01
+UK,Europe,2022,mass_market,Diesel_ICE,Volkswagen Diesel,142795,48132,19.2,1006,0.12,Long Distance Highway Range,4.44
+UK,Europe,2022,premium,EV,Volkswagen EV,135212,53230,0.0,327,0.03,Cost Efficiency,4.76
+UK,Europe,2022,premium,Petrol_ICE,Toyota Petrol,319713,38778,17.9,671,0.16,Refueling Convenience,4.67
+UK,Europe,2022,premium,Diesel_ICE,Volkswagen Diesel,101795,53933,21.4,792,0.12,Fuel Economy,3.84
+UK,Europe,2022,commercial,EV,BMW EV,41640,52839,0.0,383,0.03,Cost Efficiency,4.24
+UK,Europe,2022,commercial,Petrol_ICE,Toyota Petrol,83056,37709,13.3,642,0.17,Initial Affordability,4.01
+UK,Europe,2022,commercial,Diesel_ICE,Volkswagen Diesel,18828,43352,17.8,1009,0.15,Long Distance Highway Range,4.58
+USA,North America,2022,mass_market,EV,Tesla,301792,39648,0.0,387,0.04,Tech Features,4.21
+USA,North America,2022,mass_market,Petrol_ICE,Toyota Petrol,370792,42054,16.1,746,0.15,Brand Trust,3.93
+USA,North America,2022,mass_market,Diesel_ICE,Hyundai Diesel,76035,33210,20.0,967,0.13,Long Distance Highway Range,4.59
+USA,North America,2022,premium,EV,Tesla,557572,50812,0.0,390,0.02,Sustainability,3.91
+USA,North America,2022,premium,Petrol_ICE,Toyota Petrol,368406,23760,17.2,745,0.13,Refueling Convenience,4.56
+USA,North America,2022,premium,Diesel_ICE,Hyundai Diesel,39995,41977,15.8,783,0.15,Torque / Hauling,3.99
+USA,North America,2022,commercial,EV,BMW EV,265400,40889,0.0,404,0.04,Tech Features,4.31
+USA,North America,2022,commercial,Petrol_ICE,Toyota Petrol,376781,32497,17.5,638,0.17,Refueling Convenience,3.74
+USA,North America,2022,commercial,Diesel_ICE,Volkswagen Diesel,114932,25386,16.0,780,0.13,Fuel Economy,4.14
+Australia,Oceania,2023,mass_market,EV,BMW EV,362670,66705,0.0,512,0.04,Tech Features,4.01
+Australia,Oceania,2023,mass_market,Petrol_ICE,Toyota Petrol,244054,37815,12.4,876,0.16,Refueling Convenience,4.08
+Australia,Oceania,2023,mass_market,Diesel_ICE,Volkswagen Diesel,77493,28259,17.7,894,0.14,Fuel Economy,4.51
+Australia,Oceania,2023,premium,EV,BYD,436395,50434,0.0,356,0.02,Cost Efficiency,4.23
+Australia,Oceania,2023,premium,Petrol_ICE,Honda Petrol,108803,26564,16.6,646,0.13,Initial Affordability,4.22
+Australia,Oceania,2023,premium,Diesel_ICE,Ford ICE,32297,27011,17.4,825,0.13,Long Distance Highway Range,4.41
+Australia,Oceania,2023,commercial,EV,BYD,139260,48703,0.0,475,0.03,Sustainability,4.14
+Australia,Oceania,2023,commercial,Petrol_ICE,Toyota Petrol,219587,25744,17.8,666,0.18,Refueling Convenience,3.65
+Australia,Oceania,2023,commercial,Diesel_ICE,Ford ICE,62093,29458,16.1,1005,0.12,Long Distance Highway Range,4.15
+Austria,Europe,2023,mass_market,EV,BMW EV,691205,53556,0.0,469,0.03,Tech Features,4.67
+Austria,Europe,2023,mass_market,Petrol_ICE,Honda Petrol,201475,20785,15.3,884,0.14,Brand Trust,3.78
+Austria,Europe,2023,mass_market,Diesel_ICE,Volkswagen Diesel,74500,28807,18.8,864,0.12,Long Distance Highway Range,4.25
+Austria,Europe,2023,premium,EV,Hyundai,459180,40498,0.0,430,0.03,Cost Efficiency,3.83
+Austria,Europe,2023,premium,Petrol_ICE,Honda Petrol,170544,20340,16.1,620,0.18,Brand Trust,4.25
+Austria,Europe,2023,premium,Diesel_ICE,Ford ICE,100376,26627,16.0,810,0.14,Fuel Economy,4.54
+Austria,Europe,2023,commercial,EV,BYD,450450,55219,0.0,403,0.03,Sustainability,4.15
+Austria,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,190023,21307,14.9,763,0.17,Brand Trust,4.76
+Austria,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,147212,49842,18.7,839,0.1,Torque / Hauling,4.55
+Belgium,Europe,2023,mass_market,EV,Tesla,109295,42684,0.0,483,0.03,Sustainability,3.64
+Belgium,Europe,2023,mass_market,Petrol_ICE,Toyota Petrol,53893,20882,15.1,707,0.15,Refueling Convenience,4.31
+Belgium,Europe,2023,mass_market,Diesel_ICE,Volkswagen Diesel,121233,30347,18.7,915,0.12,Fuel Economy,4.21
+Belgium,Europe,2023,premium,EV,BYD,366720,74410,0.0,508,0.05,Sustainability,4.15
+Belgium,Europe,2023,premium,Petrol_ICE,Toyota Petrol,58354,42190,15.5,762,0.13,Initial Affordability,3.67
+Belgium,Europe,2023,premium,Diesel_ICE,Hyundai Diesel,23016,27384,17.1,1027,0.1,Torque / Hauling,3.91
+Belgium,Europe,2023,commercial,EV,BMW EV,633340,60518,0.0,330,0.04,Sustainability,4.17
+Belgium,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,176917,41162,16.2,897,0.16,Initial Affordability,4.03
+Belgium,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,67887,40906,21.7,1002,0.15,Torque / Hauling,4.41
+Canada,North America,2023,mass_market,EV,Hyundai,657195,46590,0.0,364,0.03,Cost Efficiency,4.49
+Canada,North America,2023,mass_market,Petrol_ICE,Honda Petrol,160356,40620,17.6,787,0.16,Brand Trust,4.66
+Canada,North America,2023,mass_market,Diesel_ICE,Ford ICE,109754,35433,15.6,964,0.14,Torque / Hauling,4.09
+Canada,North America,2023,premium,EV,Hyundai,68025,69782,0.0,398,0.04,Sustainability,4.57
+Canada,North America,2023,premium,Petrol_ICE,Honda Petrol,281324,30207,12.0,682,0.15,Refueling Convenience,3.69
+Canada,North America,2023,premium,Diesel_ICE,Volkswagen Diesel,74766,37449,16.7,887,0.11,Torque / Hauling,4.08
+Canada,North America,2023,commercial,EV,Volkswagen EV,76750,65622,0.0,333,0.03,Tech Features,4.72
+Canada,North America,2023,commercial,Petrol_ICE,Toyota Petrol,355261,25686,12.1,830,0.15,Initial Affordability,4.26
+Canada,North America,2023,commercial,Diesel_ICE,Ford ICE,137258,38364,19.5,913,0.11,Fuel Economy,4.2
+China,Asia,2023,mass_market,EV,Volkswagen EV,216665,50369,0.0,499,0.04,Sustainability,3.89
+China,Asia,2023,mass_market,Petrol_ICE,Toyota Petrol,187309,29203,16.8,621,0.15,Initial Affordability,4.7
+China,Asia,2023,mass_market,Diesel_ICE,Ford ICE,71071,30585,16.1,989,0.11,Torque / Hauling,4.47
+China,Asia,2023,premium,EV,Tesla,60080,49027,0.0,378,0.02,Cost Efficiency,4.21
+China,Asia,2023,premium,Petrol_ICE,Honda Petrol,353105,23167,16.2,687,0.17,Initial Affordability,4.01
+China,Asia,2023,premium,Diesel_ICE,Hyundai Diesel,95811,50464,21.5,820,0.12,Fuel Economy,4.28
+China,Asia,2023,commercial,EV,Volkswagen EV,709325,72291,0.0,399,0.05,Tech Features,4.12
+China,Asia,2023,commercial,Petrol_ICE,Honda Petrol,173296,28389,17.6,778,0.13,Refueling Convenience,3.65
+China,Asia,2023,commercial,Diesel_ICE,Ford ICE,77368,37091,20.9,874,0.11,Long Distance Highway Range,4.65
+France,Europe,2023,mass_market,EV,Hyundai,173980,59427,0.0,316,0.04,Cost Efficiency,3.96
+France,Europe,2023,mass_market,Petrol_ICE,Toyota Petrol,118356,36211,15.8,892,0.12,Initial Affordability,4.2
+France,Europe,2023,mass_market,Diesel_ICE,Volkswagen Diesel,81914,44758,19.4,926,0.12,Fuel Economy,4.52
+France,Europe,2023,premium,EV,BMW EV,36285,62364,0.0,399,0.05,Cost Efficiency,4.39
+France,Europe,2023,premium,Petrol_ICE,Honda Petrol,158581,49623,13.3,708,0.17,Initial Affordability,3.95
+France,Europe,2023,premium,Diesel_ICE,Ford ICE,33135,50351,15.9,702,0.12,Long Distance Highway Range,4.42
+France,Europe,2023,commercial,EV,BMW EV,336305,43547,0.0,534,0.03,Cost Efficiency,4.59
+France,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,181365,21673,13.6,652,0.16,Initial Affordability,4.05
+France,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,33199,28841,20.0,837,0.1,Fuel Economy,4.09
+Germany,Europe,2023,mass_market,EV,BMW EV,295655,59087,0.0,470,0.05,Sustainability,4.22
+Germany,Europe,2023,mass_market,Petrol_ICE,Honda Petrol,263461,32096,14.7,871,0.17,Refueling Convenience,4.63
+Germany,Europe,2023,mass_market,Diesel_ICE,Ford ICE,143681,30818,20.7,861,0.11,Fuel Economy,3.62
+Germany,Europe,2023,premium,EV,Volkswagen EV,171680,39025,0.0,356,0.03,Tech Features,4.4
+Germany,Europe,2023,premium,Petrol_ICE,Honda Petrol,221196,40102,17.1,759,0.17,Initial Affordability,4.33
+Germany,Europe,2023,premium,Diesel_ICE,Hyundai Diesel,43151,38767,17.8,831,0.14,Long Distance Highway Range,3.87
+Germany,Europe,2023,commercial,EV,Volkswagen EV,488845,56729,0.0,504,0.04,Tech Features,4.41
+Germany,Europe,2023,commercial,Petrol_ICE,Honda Petrol,278083,33913,17.7,732,0.15,Refueling Convenience,4.37
+Germany,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,76215,48067,17.6,758,0.14,Fuel Economy,3.77
+India,Asia,2023,mass_market,EV,BMW EV,593440,66226,0.0,382,0.02,Cost Efficiency,4.23
+India,Asia,2023,mass_market,Petrol_ICE,Toyota Petrol,249987,41486,16.0,648,0.18,Refueling Convenience,3.95
+India,Asia,2023,mass_market,Diesel_ICE,Ford ICE,90451,34784,15.4,873,0.1,Long Distance Highway Range,4.72
+India,Asia,2023,premium,EV,Tesla,54695,70063,0.0,477,0.03,Sustainability,3.89
+India,Asia,2023,premium,Petrol_ICE,Honda Petrol,275796,47076,13.6,685,0.17,Refueling Convenience,4.26
+India,Asia,2023,premium,Diesel_ICE,Volkswagen Diesel,82468,36486,18.9,705,0.12,Long Distance Highway Range,3.66
+India,Asia,2023,commercial,EV,Hyundai,491720,59272,0.0,376,0.04,Tech Features,3.89
+India,Asia,2023,commercial,Petrol_ICE,Honda Petrol,279173,48328,15.8,851,0.18,Brand Trust,4.78
+India,Asia,2023,commercial,Diesel_ICE,Ford ICE,104080,30451,18.2,973,0.13,Fuel Economy,3.86
+Italy,Europe,2023,mass_market,EV,Volkswagen EV,649405,65873,0.0,407,0.04,Tech Features,4.03
+Italy,Europe,2023,mass_market,Petrol_ICE,Toyota Petrol,336208,49290,15.1,846,0.14,Refueling Convenience,4.17
+Italy,Europe,2023,mass_market,Diesel_ICE,Ford ICE,51191,35211,16.6,738,0.14,Torque / Hauling,4.53
+Italy,Europe,2023,premium,EV,BYD,414800,53852,0.0,335,0.03,Sustainability,4.57
+Italy,Europe,2023,premium,Petrol_ICE,Honda Petrol,195604,38601,13.1,654,0.16,Brand Trust,3.9
+Italy,Europe,2023,premium,Diesel_ICE,Hyundai Diesel,96050,36128,18.4,840,0.1,Long Distance Highway Range,3.78
+Italy,Europe,2023,commercial,EV,Tesla,304205,37176,0.0,392,0.03,Tech Features,4.07
+Italy,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,148125,27778,14.7,805,0.16,Initial Affordability,3.9
+Italy,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,81641,44392,21.3,853,0.15,Fuel Economy,4.21
+Japan,Asia,2023,mass_market,EV,Tesla,617370,44256,0.0,432,0.02,Cost Efficiency,3.78
+Japan,Asia,2023,mass_market,Petrol_ICE,Toyota Petrol,74540,46536,14.6,855,0.15,Brand Trust,4.11
+Japan,Asia,2023,mass_market,Diesel_ICE,Ford ICE,123946,26132,21.3,1026,0.14,Long Distance Highway Range,4.1
+Japan,Asia,2023,premium,EV,Volkswagen EV,691255,44065,0.0,442,0.04,Cost Efficiency,4.31
+Japan,Asia,2023,premium,Petrol_ICE,Honda Petrol,213423,47794,17.1,870,0.17,Initial Affordability,4.09
+Japan,Asia,2023,premium,Diesel_ICE,Ford ICE,128943,36546,17.3,723,0.12,Fuel Economy,4.22
+Japan,Asia,2023,commercial,EV,Volkswagen EV,713430,71020,0.0,322,0.05,Tech Features,3.75
+Japan,Asia,2023,commercial,Petrol_ICE,Toyota Petrol,228221,24776,15.5,787,0.15,Initial Affordability,4.47
+Japan,Asia,2023,commercial,Diesel_ICE,Hyundai Diesel,127230,44540,18.1,878,0.1,Torque / Hauling,4.48
+Norway,Europe,2023,mass_market,EV,BMW EV,252375,54624,0.0,440,0.03,Sustainability,4.68
+Norway,Europe,2023,mass_market,Petrol_ICE,Honda Petrol,184228,43064,16.9,805,0.13,Brand Trust,4.8
+Norway,Europe,2023,mass_market,Diesel_ICE,Volkswagen Diesel,141479,52127,17.8,848,0.11,Fuel Economy,4.1
+Norway,Europe,2023,premium,EV,BYD,696725,72306,0.0,308,0.03,Sustainability,4.18
+Norway,Europe,2023,premium,Petrol_ICE,Honda Petrol,108368,48483,13.8,752,0.13,Initial Affordability,3.72
+Norway,Europe,2023,premium,Diesel_ICE,Hyundai Diesel,148682,37067,21.5,787,0.11,Fuel Economy,4.46
+Norway,Europe,2023,commercial,EV,BYD,480590,35406,0.0,466,0.05,Cost Efficiency,3.93
+Norway,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,315194,20680,12.9,669,0.14,Initial Affordability,4.63
+Norway,Europe,2023,commercial,Diesel_ICE,Ford ICE,56520,50675,18.0,891,0.12,Fuel Economy,4.18
+Spain,Europe,2023,mass_market,EV,Volkswagen EV,450455,68919,0.0,445,0.02,Tech Features,4.61
+Spain,Europe,2023,mass_market,Petrol_ICE,Honda Petrol,321063,24173,15.7,761,0.15,Brand Trust,4.2
+Spain,Europe,2023,mass_market,Diesel_ICE,Hyundai Diesel,85533,48416,21.8,1038,0.12,Long Distance Highway Range,4.46
+Spain,Europe,2023,premium,EV,BMW EV,682305,68767,0.0,539,0.04,Tech Features,4.74
+Spain,Europe,2023,premium,Petrol_ICE,Toyota Petrol,223887,24986,17.2,747,0.16,Brand Trust,3.98
+Spain,Europe,2023,premium,Diesel_ICE,Hyundai Diesel,34477,42266,20.6,706,0.12,Fuel Economy,4.29
+Spain,Europe,2023,commercial,EV,Hyundai,146675,46254,0.0,478,0.02,Cost Efficiency,4.26
+Spain,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,190653,35924,13.1,739,0.16,Initial Affordability,4.12
+Spain,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,15887,44488,15.6,718,0.13,Fuel Economy,3.67
+UK,Europe,2023,mass_market,EV,Volkswagen EV,447630,42846,0.0,332,0.04,Sustainability,4.48
+UK,Europe,2023,mass_market,Petrol_ICE,Toyota Petrol,115277,42742,16.7,847,0.18,Refueling Convenience,4.73
+UK,Europe,2023,mass_market,Diesel_ICE,Volkswagen Diesel,109776,50991,18.2,901,0.11,Torque / Hauling,4.26
+UK,Europe,2023,premium,EV,Tesla,339375,60917,0.0,496,0.03,Cost Efficiency,3.85
+UK,Europe,2023,premium,Petrol_ICE,Toyota Petrol,258800,47851,13.6,865,0.15,Brand Trust,3.92
+UK,Europe,2023,premium,Diesel_ICE,Volkswagen Diesel,91361,47693,16.0,994,0.11,Fuel Economy,4.74
+UK,Europe,2023,commercial,EV,Hyundai,365680,64267,0.0,410,0.04,Cost Efficiency,3.62
+UK,Europe,2023,commercial,Petrol_ICE,Toyota Petrol,252802,49829,15.4,672,0.16,Refueling Convenience,3.98
+UK,Europe,2023,commercial,Diesel_ICE,Volkswagen Diesel,69330,43939,21.1,764,0.11,Long Distance Highway Range,3.79
+USA,North America,2023,mass_market,EV,Hyundai,267210,72525,0.0,347,0.02,Sustainability,4.35
+USA,North America,2023,mass_market,Petrol_ICE,Toyota Petrol,124381,40504,14.4,667,0.18,Initial Affordability,4.14
+USA,North America,2023,mass_market,Diesel_ICE,Hyundai Diesel,16920,32817,20.9,805,0.14,Torque / Hauling,4.77
+USA,North America,2023,premium,EV,BYD,571000,72705,0.0,326,0.03,Tech Features,4.67
+USA,North America,2023,premium,Petrol_ICE,Toyota Petrol,352660,43678,14.6,870,0.17,Brand Trust,4.47
+USA,North America,2023,premium,Diesel_ICE,Hyundai Diesel,105009,27962,18.8,740,0.11,Long Distance Highway Range,3.71
+USA,North America,2023,commercial,EV,Volkswagen EV,243820,36134,0.0,346,0.02,Cost Efficiency,3.86
+USA,North America,2023,commercial,Petrol_ICE,Honda Petrol,273540,38730,17.5,802,0.15,Brand Trust,3.86
+USA,North America,2023,commercial,Diesel_ICE,Volkswagen Diesel,101346,26551,17.6,837,0.14,Fuel Economy,4.59
+Australia,Oceania,2024,mass_market,EV,Hyundai,862092,49924,0.0,501,0.04,Tech Features,4.49
+Australia,Oceania,2024,mass_market,Petrol_ICE,Toyota Petrol,122409,43248,13.2,706,0.15,Initial Affordability,4.64
+Australia,Oceania,2024,mass_market,Diesel_ICE,Hyundai Diesel,106829,52172,15.2,886,0.12,Long Distance Highway Range,4.65
+Australia,Oceania,2024,premium,EV,BYD,411660,40307,0.0,467,0.03,Tech Features,4.72
+Australia,Oceania,2024,premium,Petrol_ICE,Honda Petrol,218267,27697,15.0,738,0.16,Initial Affordability,3.96
+Australia,Oceania,2024,premium,Diesel_ICE,Hyundai Diesel,43927,33326,18.3,787,0.15,Fuel Economy,3.94
+Australia,Oceania,2024,commercial,EV,BYD,245052,48261,0.0,420,0.03,Sustainability,3.73
+Australia,Oceania,2024,commercial,Petrol_ICE,Toyota Petrol,327644,37028,13.1,620,0.16,Brand Trust,4.58
+Australia,Oceania,2024,commercial,Diesel_ICE,Ford ICE,78059,40954,20.6,828,0.12,Fuel Economy,4.22
+Austria,Europe,2024,mass_market,EV,BYD,838068,67828,0.0,351,0.05,Cost Efficiency,3.97
+Austria,Europe,2024,mass_market,Petrol_ICE,Honda Petrol,281503,35748,15.8,776,0.15,Brand Trust,3.88
+Austria,Europe,2024,mass_market,Diesel_ICE,Hyundai Diesel,38408,50812,17.7,808,0.13,Torque / Hauling,4.23
+Austria,Europe,2024,premium,EV,Hyundai,487440,73987,0.0,457,0.03,Sustainability,3.96
+Austria,Europe,2024,premium,Petrol_ICE,Toyota Petrol,395566,21700,13.1,645,0.14,Brand Trust,4.12
+Austria,Europe,2024,premium,Diesel_ICE,Hyundai Diesel,124814,28687,20.0,833,0.14,Torque / Hauling,3.79
+Austria,Europe,2024,commercial,EV,Hyundai,419550,39733,0.0,459,0.05,Sustainability,3.75
+Austria,Europe,2024,commercial,Petrol_ICE,Toyota Petrol,346083,49345,13.3,610,0.13,Brand Trust,3.89
+Austria,Europe,2024,commercial,Diesel_ICE,Volkswagen Diesel,112406,41530,16.5,851,0.13,Long Distance Highway Range,4.1
+Belgium,Europe,2024,mass_market,EV,Tesla,541680,54389,0.0,318,0.04,Tech Features,4.5
+Belgium,Europe,2024,mass_market,Petrol_ICE,Honda Petrol,271324,45521,14.5,845,0.15,Initial Affordability,4.24
+Belgium,Europe,2024,mass_market,Diesel_ICE,Hyundai Diesel,85463,52964,18.1,1043,0.13,Fuel Economy,3.74
+Belgium,Europe,2024,premium,EV,BYD,815046,50810,0.0,348,0.05,Cost Efficiency,3.62
+Belgium,Europe,2024,premium,Petrol_ICE,Toyota Petrol,183888,26314,16.0,806,0.17,Brand Trust,4.43
+Belgium,Europe,2024,premium,Diesel_ICE,Hyundai Diesel,144048,28893,18.7,1020,0.12,Torque / Hauling,4.61
+Belgium,Europe,2024,commercial,EV,Tesla,185778,41773,0.0,498,0.03,Tech Features,4.58
+Belgium,Europe,2024,commercial,Petrol_ICE,Toyota Petrol,158696,49100,14.8,780,0.14,Initial Affordability,4.56
+Belgium,Europe,2024,commercial,Diesel_ICE,Volkswagen Diesel,56153,36999,18.4,938,0.13,Fuel Economy,3.68
+Canada,North America,2024,mass_market,EV,BMW EV,96384,46312,0.0,381,0.03,Cost Efficiency,4.79
+Canada,North America,2024,mass_market,Petrol_ICE,Honda Petrol,216348,20634,13.9,602,0.14,Brand Trust,4.45
+Canada,North America,2024,mass_market,Diesel_ICE,Ford ICE,142619,47010,19.6,806,0.15,Torque / Hauling,3.86
+Canada,North America,2024,premium,EV,Volkswagen EV,85662,49683,0.0,525,0.04,Tech Features,3.66
+Canada,North America,2024,premium,Petrol_ICE,Toyota Petrol,394211,41639,15.5,894,0.16,Initial Affordability,3.62
+Canada,North America,2024,premium,Diesel_ICE,Hyundai Diesel,135018,49255,17.7,791,0.11,Torque / Hauling,4.5
+Canada,North America,2024,commercial,EV,Hyundai,683664,63047,0.0,320,0.04,Sustainability,4.29
+Canada,North America,2024,commercial,Petrol_ICE,Honda Petrol,328213,40029,13.8,868,0.16,Brand Trust,3.82
+Canada,North America,2024,commercial,Diesel_ICE,Volkswagen Diesel,48722,35625,21.1,837,0.13,Fuel Economy,4.27
+China,Asia,2024,mass_market,EV,BYD,347718,53945,0.0,439,0.03,Tech Features,4.39
+China,Asia,2024,mass_market,Petrol_ICE,Honda Petrol,283056,36767,16.2,838,0.16,Brand Trust,4.36
+China,Asia,2024,mass_market,Diesel_ICE,Volkswagen Diesel,52019,37180,16.9,977,0.1,Long Distance Highway Range,4.58
+China,Asia,2024,premium,EV,Volkswagen EV,290370,59031,0.0,549,0.04,Cost Efficiency,4.12
+China,Asia,2024,premium,Petrol_ICE,Toyota Petrol,130880,23748,13.6,695,0.13,Initial Affordability,4.36
+China,Asia,2024,premium,Diesel_ICE,Volkswagen Diesel,131525,25689,18.0,886,0.13,Fuel Economy,4.68
+China,Asia,2024,commercial,EV,BYD,104346,71940,0.0,301,0.04,Cost Efficiency,4.29
+China,Asia,2024,commercial,Petrol_ICE,Honda Petrol,337647,47923,14.0,886,0.17,Initial Affordability,4.63
+China,Asia,2024,commercial,Diesel_ICE,Ford ICE,52228,48386,19.0,952,0.12,Fuel Economy,3.63
+France,Europe,2024,mass_market,EV,Hyundai,396684,39594,0.0,457,0.03,Cost Efficiency,3.88
+France,Europe,2024,mass_market,Petrol_ICE,Honda Petrol,297438,30701,15.7,782,0.17,Brand Trust,3.61
+France,Europe,2024,mass_market,Diesel_ICE,Volkswagen Diesel,101724,52772,17.7,767,0.15,Fuel Economy,4.48
+France,Europe,2024,premium,EV,Tesla,230040,74850,0.0,319,0.04,Tech Features,4.71
+France,Europe,2024,premium,Petrol_ICE,Toyota Petrol,307885,33281,15.7,790,0.13,Brand Trust,4.13
+France,Europe,2024,premium,Diesel_ICE,Volkswagen Diesel,45257,39211,20.6,865,0.13,Fuel Economy,4.74
+France,Europe,2024,commercial,EV,BYD,215448,54610,0.0,419,0.05,Cost Efficiency,4.36
+France,Europe,2024,commercial,Petrol_ICE,Toyota Petrol,338326,37832,16.2,781,0.14,Brand Trust,4.5
+France,Europe,2024,commercial,Diesel_ICE,Hyundai Diesel,87518,48811,16.3,913,0.13,Long Distance Highway Range,4.6
+Germany,Europe,2024,mass_market,EV,Tesla,843606,52519,0.0,418,0.03,Tech Features,4.61
+Germany,Europe,2024,mass_market,Petrol_ICE,Honda Petrol,368821,24627,17.5,755,0.15,Refueling Convenience,4.66
+Germany,Europe,2024,mass_market,Diesel_ICE,Hyundai Diesel,131545,50380,16.9,991,0.1,Fuel Economy,4.31
+Germany,Europe,2024,premium,EV,Volkswagen EV,164634,46413,0.0,307,0.02,Sustainability,3.7
+Germany,Europe,2024,premium,Petrol_ICE,Honda Petrol,192191,38771,13.5,834,0.13,Initial Affordability,4.77
+Germany,Europe,2024,premium,Diesel_ICE,Ford ICE,74546,54876,17.0,772,0.15,Long Distance Highway Range,4.68
+Germany,Europe,2024,commercial,EV,Tesla,310980,74542,0.0,307,0.05,Cost Efficiency,3.67
+Germany,Europe,2024,commercial,Petrol_ICE,Toyota Petrol,357715,34715,14.6,867,0.17,Refueling Convenience,4.73
+Germany,Europe,2024,commercial,Diesel_ICE,Ford ICE,102954,45973,20.5,770,0.11,Torque / Hauling,4.17
+India,Asia,2024,mass_market,EV,BYD,222606,37775,0.0,459,0.03,Cost Efficiency,4.24
+India,Asia,2024,mass_market,Petrol_ICE,Honda Petrol,359268,46616,12.7,835,0.14,Brand Trust,3.99
+India,Asia,2024,mass_market,Diesel_ICE,Volkswagen Diesel,40479,38404,15.1,837,0.11,Long Distance Highway Range,4.02
+India,Asia,2024,premium,EV,BMW EV,128106,39131,0.0,325,0.04,Tech Features,4.53
+India,Asia,2024,premium,Petrol_ICE,Honda Petrol,314597,38814,12.9,877,0.15,Brand Trust,4.45
+India,Asia,2024,premium,Diesel_ICE,Volkswagen Diesel,149445,35335,16.0,965,0.13,Torque / Hauling,3.97
+India,Asia,2024,commercial,EV,Volkswagen EV,754482,54567,0.0,489,0.05,Cost Efficiency,4.15
+India,Asia,2024,commercial,Petrol_ICE,Toyota Petrol,327710,27657,16.3,780,0.15,Initial Affordability,3.83
+India,Asia,2024,commercial,Diesel_ICE,Volkswagen Diesel,85744,25687,19.7,805,0.12,Fuel Economy,3.75
+Italy,Europe,2024,mass_market,EV,Tesla,293136,70871,0.0,339,0.03,Tech Features,4.23
+Italy,Europe,2024,mass_market,Petrol_ICE,Toyota Petrol,221068,34031,15.0,637,0.17,Brand Trust,3.74
+Italy,Europe,2024,mass_market,Diesel_ICE,Ford ICE,38569,36151,19.9,886,0.14,Torque / Hauling,4.68
+Italy,Europe,2024,premium,EV,BMW EV,772368,37032,0.0,433,0.04,Cost Efficiency,4.22
+Italy,Europe,2024,premium,Petrol_ICE,Honda Petrol,322933,47779,15.3,880,0.16,Brand Trust,3.77
+Italy,Europe,2024,premium,Diesel_ICE,Hyundai Diesel,81981,47647,17.0,830,0.11,Torque / Hauling,4.68
+Italy,Europe,2024,commercial,EV,Tesla,807786,41855,0.0,305,0.03,Tech Features,4.73
+Italy,Europe,2024,commercial,Petrol_ICE,Honda Petrol,316223,37082,15.3,886,0.15,Initial Affordability,3.81
+Italy,Europe,2024,commercial,Diesel_ICE,Volkswagen Diesel,143126,51910,18.6,783,0.11,Torque / Hauling,4.5
+Japan,Asia,2024,mass_market,EV,BYD,125496,45878,0.0,413,0.02,Cost Efficiency,3.88
+Japan,Asia,2024,mass_market,Petrol_ICE,Toyota Petrol,347680,23968,13.2,657,0.13,Brand Trust,3.65
+Japan,Asia,2024,mass_market,Diesel_ICE,Ford ICE,92485,33519,16.7,886,0.13,Long Distance Highway Range,4.16
+Japan,Asia,2024,premium,EV,BYD,456768,53108,0.0,545,0.03,Cost Efficiency,4.44
+Japan,Asia,2024,premium,Petrol_ICE,Toyota Petrol,210591,36881,16.2,868,0.16,Refueling Convenience,3.85
+Japan,Asia,2024,premium,Diesel_ICE,Ford ICE,94414,31992,19.3,900,0.12,Fuel Economy,3.75
+Japan,Asia,2024,commercial,EV,Volkswagen EV,760542,36848,0.0,436,0.05,Cost Efficiency,4.56
+Japan,Asia,2024,commercial,Petrol_ICE,Honda Petrol,349066,33409,13.4,870,0.15,Initial Affordability,3.73
+Japan,Asia,2024,commercial,Diesel_ICE,Hyundai Diesel,33074,40549,19.3,741,0.12,Fuel Economy,4.28
+Norway,Europe,2024,mass_market,EV,Tesla,711012,57800,0.0,459,0.04,Cost Efficiency,4.28
+Norway,Europe,2024,mass_market,Petrol_ICE,Honda Petrol,330198,29783,14.2,701,0.12,Brand Trust,4.23
+Norway,Europe,2024,mass_market,Diesel_ICE,Ford ICE,123464,45706,17.4,1004,0.12,Torque / Hauling,4.4
+Norway,Europe,2024,premium,EV,Hyundai,280980,72531,0.0,316,0.04,Sustainability,3.95
+Norway,Europe,2024,premium,Petrol_ICE,Toyota Petrol,116918,32580,15.0,813,0.14,Brand Trust,4.01
+Norway,Europe,2024,premium,Diesel_ICE,Hyundai Diesel,146379,49121,19.9,946,0.12,Fuel Economy,3.97
+Norway,Europe,2024,commercial,EV,Hyundai,185724,59423,0.0,327,0.03,Sustainability,4.79
+Norway,Europe,2024,commercial,Petrol_ICE,Honda Petrol,296446,42987,17.6,736,0.13,Brand Trust,3.78
+Norway,Europe,2024,commercial,Diesel_ICE,Volkswagen Diesel,120982,30698,15.0,817,0.13,Torque / Hauling,4.38
+Spain,Europe,2024,mass_market,EV,Hyundai,812442,66954,0.0,451,0.04,Sustainability,4.73
+Spain,Europe,2024,mass_market,Petrol_ICE,Toyota Petrol,153776,36654,13.3,780,0.13,Brand Trust,4.08
+Spain,Europe,2024,mass_market,Diesel_ICE,Ford ICE,33782,37721,17.1,875,0.13,Long Distance Highway Range,4.13
+Spain,Europe,2024,premium,EV,BYD,58590,55354,0.0,448,0.03,Cost Efficiency,4.59
+Spain,Europe,2024,premium,Petrol_ICE,Toyota Petrol,53780,26589,15.2,893,0.16,Refueling Convenience,3.96
+Spain,Europe,2024,premium,Diesel_ICE,Volkswagen Diesel,69195,42358,19.4,769,0.15,Fuel Economy,3.62
+Spain,Europe,2024,commercial,EV,Hyundai,500904,48026,0.0,339,0.03,Cost Efficiency,4.73
+Spain,Europe,2024,commercial,Petrol_ICE,Toyota Petrol,95798,24298,16.7,836,0.12,Initial Affordability,3.74
+Spain,Europe,2024,commercial,Diesel_ICE,Ford ICE,91996,41968,19.2,887,0.13,Fuel Economy,4.24
+UK,Europe,2024,mass_market,EV,BMW EV,54036,69393,0.0,422,0.04,Cost Efficiency,3.9
+UK,Europe,2024,mass_market,Petrol_ICE,Toyota Petrol,240569,49277,12.2,785,0.15,Brand Trust,3.77
+UK,Europe,2024,mass_market,Diesel_ICE,Hyundai Diesel,147659,48384,18.2,739,0.15,Long Distance Highway Range,3.9
+UK,Europe,2024,premium,EV,BMW EV,464238,69217,0.0,378,0.04,Sustainability,4.68
+UK,Europe,2024,premium,Petrol_ICE,Toyota Petrol,87111,26845,12.3,689,0.13,Refueling Convenience,4.16
+UK,Europe,2024,premium,Diesel_ICE,Volkswagen Diesel,81125,45908,19.0,713,0.12,Long Distance Highway Range,4.29
+UK,Europe,2024,commercial,EV,BMW EV,765900,44968,0.0,547,0.05,Sustainability,4.42
+UK,Europe,2024,commercial,Petrol_ICE,Toyota Petrol,169593,44368,15.2,625,0.18,Refueling Convenience,4.09
+UK,Europe,2024,commercial,Diesel_ICE,Volkswagen Diesel,122205,27618,21.8,972,0.15,Torque / Hauling,3.68
+USA,North America,2024,mass_market,EV,Hyundai,118314,64227,0.0,362,0.05,Tech Features,3.69
+USA,North America,2024,mass_market,Petrol_ICE,Honda Petrol,263122,38323,16.1,721,0.17,Initial Affordability,4.13
+USA,North America,2024,mass_market,Diesel_ICE,Volkswagen Diesel,141278,39698,15.7,987,0.14,Torque / Hauling,4.41
+USA,North America,2024,premium,EV,Volkswagen EV,487038,69724,0.0,339,0.02,Sustainability,3.79
+USA,North America,2024,premium,Petrol_ICE,Toyota Petrol,288044,25313,12.6,735,0.15,Brand Trust,3.91
+USA,North America,2024,premium,Diesel_ICE,Volkswagen Diesel,18558,34772,21.2,802,0.13,Long Distance Highway Range,3.94
+USA,North America,2024,commercial,EV,BYD,145374,44673,0.0,413,0.04,Cost Efficiency,4.08
+USA,North America,2024,commercial,Petrol_ICE,Honda Petrol,281249,24266,12.9,721,0.13,Initial Affordability,4.7
+USA,North America,2024,commercial,Diesel_ICE,Volkswagen Diesel,56247,30737,16.7,795,0.11,Torque / Hauling,4.29
+Australia,Oceania,2025,mass_market,EV,Hyundai,512449,41519,0.0,490,0.03,Tech Features,4.46
+Australia,Oceania,2025,mass_market,Petrol_ICE,Toyota Petrol,211103,33699,14.4,896,0.13,Refueling Convenience,4.58
+Australia,Oceania,2025,mass_market,Diesel_ICE,Hyundai Diesel,108474,32701,17.8,946,0.11,Fuel Economy,4.54
+Australia,Oceania,2025,premium,EV,Tesla,130928,37123,0.0,317,0.02,Cost Efficiency,3.84
+Australia,Oceania,2025,premium,Petrol_ICE,Toyota Petrol,118537,37490,13.3,646,0.15,Brand Trust,4.1
+Australia,Oceania,2025,premium,Diesel_ICE,Hyundai Diesel,50739,27017,19.0,724,0.14,Torque / Hauling,3.7
+Australia,Oceania,2025,commercial,EV,Tesla,928067,41782,0.0,324,0.04,Sustainability,3.69
+Australia,Oceania,2025,commercial,Petrol_ICE,Toyota Petrol,78346,33834,17.0,772,0.14,Initial Affordability,3.88
+Australia,Oceania,2025,commercial,Diesel_ICE,Hyundai Diesel,20695,31401,17.9,753,0.11,Long Distance Highway Range,3.61
+Austria,Europe,2025,mass_market,EV,BYD,844900,43378,0.0,443,0.02,Tech Features,3.97
+Austria,Europe,2025,mass_market,Petrol_ICE,Honda Petrol,267203,25877,12.4,882,0.15,Brand Trust,3.76
+Austria,Europe,2025,mass_market,Diesel_ICE,Hyundai Diesel,27205,46054,20.8,716,0.11,Long Distance Highway Range,3.87
+Austria,Europe,2025,premium,EV,BYD,210665,73724,0.0,507,0.03,Sustainability,4.0
+Austria,Europe,2025,premium,Petrol_ICE,Honda Petrol,396427,35972,13.7,869,0.17,Initial Affordability,4.64
+Austria,Europe,2025,premium,Diesel_ICE,Ford ICE,141244,48324,18.4,974,0.11,Long Distance Highway Range,4.57
+Austria,Europe,2025,commercial,EV,Volkswagen EV,909678,58862,0.0,328,0.02,Sustainability,4.02
+Austria,Europe,2025,commercial,Petrol_ICE,Honda Petrol,43969,22965,16.1,629,0.14,Brand Trust,4.56
+Austria,Europe,2025,commercial,Diesel_ICE,Hyundai Diesel,122325,43293,17.4,879,0.14,Long Distance Highway Range,3.88
+Belgium,Europe,2025,mass_market,EV,Volkswagen EV,1049531,66301,0.0,538,0.04,Cost Efficiency,4.25
+Belgium,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,43121,38257,12.9,725,0.15,Refueling Convenience,4.41
+Belgium,Europe,2025,mass_market,Diesel_ICE,Volkswagen Diesel,75380,36563,15.2,836,0.11,Fuel Economy,3.74
+Belgium,Europe,2025,premium,EV,BMW EV,580902,45680,0.0,488,0.04,Tech Features,4.16
+Belgium,Europe,2025,premium,Petrol_ICE,Honda Petrol,62337,40666,14.7,793,0.14,Initial Affordability,4.2
+Belgium,Europe,2025,premium,Diesel_ICE,Ford ICE,121511,48853,21.5,806,0.11,Fuel Economy,4.27
+Belgium,Europe,2025,commercial,EV,Volkswagen EV,819175,59881,0.0,394,0.03,Tech Features,4.79
+Belgium,Europe,2025,commercial,Petrol_ICE,Honda Petrol,40320,24654,16.7,798,0.14,Brand Trust,3.75
+Belgium,Europe,2025,commercial,Diesel_ICE,Ford ICE,124863,34009,21.7,894,0.12,Torque / Hauling,4.67
+Canada,North America,2025,mass_market,EV,Tesla,624043,38009,0.0,443,0.02,Sustainability,4.11
+Canada,North America,2025,mass_market,Petrol_ICE,Toyota Petrol,228069,23867,12.1,865,0.16,Initial Affordability,4.35
+Canada,North America,2025,mass_market,Diesel_ICE,Volkswagen Diesel,49152,50973,16.8,945,0.11,Torque / Hauling,3.75
+Canada,North America,2025,premium,EV,Tesla,886095,64978,0.0,379,0.03,Sustainability,4.31
+Canada,North America,2025,premium,Petrol_ICE,Honda Petrol,307687,43624,12.2,609,0.12,Refueling Convenience,4.61
+Canada,North America,2025,premium,Diesel_ICE,Hyundai Diesel,133843,46057,19.7,863,0.11,Fuel Economy,4.36
+Canada,North America,2025,commercial,EV,Volkswagen EV,988883,42452,0.0,400,0.04,Cost Efficiency,3.63
+Canada,North America,2025,commercial,Petrol_ICE,Honda Petrol,395220,40361,12.5,745,0.13,Refueling Convenience,4.7
+Canada,North America,2025,commercial,Diesel_ICE,Volkswagen Diesel,94267,32189,20.5,916,0.12,Long Distance Highway Range,4.42
+China,Asia,2025,mass_market,EV,Hyundai,88879,49629,0.0,450,0.02,Tech Features,3.7
+China,Asia,2025,mass_market,Petrol_ICE,Toyota Petrol,116436,47751,15.6,805,0.16,Initial Affordability,4.4
+China,Asia,2025,mass_market,Diesel_ICE,Ford ICE,94558,45013,15.7,868,0.12,Torque / Hauling,3.98
+China,Asia,2025,premium,EV,Hyundai,198674,57394,0.0,396,0.02,Tech Features,4.03
+China,Asia,2025,premium,Petrol_ICE,Honda Petrol,143533,36309,15.2,850,0.17,Initial Affordability,4.22
+China,Asia,2025,premium,Diesel_ICE,Ford ICE,24726,53056,17.7,1024,0.12,Long Distance Highway Range,4.07
+China,Asia,2025,commercial,EV,Volkswagen EV,211512,67467,0.0,386,0.02,Tech Features,4.78
+China,Asia,2025,commercial,Petrol_ICE,Toyota Petrol,90519,24042,12.5,615,0.18,Refueling Convenience,4.16
+China,Asia,2025,commercial,Diesel_ICE,Hyundai Diesel,100886,51681,17.1,1036,0.12,Torque / Hauling,4.31
+France,Europe,2025,mass_market,EV,Tesla,415681,37994,0.0,430,0.04,Cost Efficiency,4.29
+France,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,309515,34547,13.5,766,0.17,Refueling Convenience,4.79
+France,Europe,2025,mass_market,Diesel_ICE,Hyundai Diesel,72514,33844,15.2,785,0.12,Fuel Economy,4.34
+France,Europe,2025,premium,EV,Volkswagen EV,566902,55423,0.0,499,0.05,Tech Features,4.17
+France,Europe,2025,premium,Petrol_ICE,Toyota Petrol,96396,20923,12.5,810,0.17,Brand Trust,4.3
+France,Europe,2025,premium,Diesel_ICE,Ford ICE,91441,38353,21.5,797,0.12,Torque / Hauling,3.9
+France,Europe,2025,commercial,EV,Volkswagen EV,986363,59489,0.0,364,0.05,Tech Features,3.76
+France,Europe,2025,commercial,Petrol_ICE,Toyota Petrol,386030,20375,15.8,753,0.17,Brand Trust,4.73
+France,Europe,2025,commercial,Diesel_ICE,Hyundai Diesel,133580,25599,21.8,817,0.12,Torque / Hauling,4.35
+Germany,Europe,2025,mass_market,EV,BYD,882952,49342,0.0,310,0.03,Cost Efficiency,3.9
+Germany,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,342619,37130,14.1,653,0.15,Initial Affordability,4.21
+Germany,Europe,2025,mass_market,Diesel_ICE,Hyundai Diesel,51386,50373,15.7,937,0.12,Long Distance Highway Range,4.65
+Germany,Europe,2025,premium,EV,BYD,832160,35946,0.0,346,0.04,Sustainability,4.38
+Germany,Europe,2025,premium,Petrol_ICE,Toyota Petrol,232933,31350,17.6,877,0.13,Initial Affordability,3.78
+Germany,Europe,2025,premium,Diesel_ICE,Hyundai Diesel,98384,25390,15.8,1007,0.11,Long Distance Highway Range,4.41
+Germany,Europe,2025,commercial,EV,Volkswagen EV,45773,60488,0.0,470,0.04,Cost Efficiency,3.65
+Germany,Europe,2025,commercial,Petrol_ICE,Honda Petrol,398588,24386,14.1,891,0.15,Brand Trust,4.41
+Germany,Europe,2025,commercial,Diesel_ICE,Hyundai Diesel,63785,46659,16.0,746,0.14,Fuel Economy,4.31
+India,Asia,2025,mass_market,EV,Tesla,987763,63633,0.0,431,0.03,Sustainability,4.17
+India,Asia,2025,mass_market,Petrol_ICE,Honda Petrol,111947,26365,16.7,780,0.13,Initial Affordability,3.75
+India,Asia,2025,mass_market,Diesel_ICE,Ford ICE,64593,35073,17.3,769,0.13,Torque / Hauling,4.16
+India,Asia,2025,premium,EV,BMW EV,569674,42933,0.0,329,0.04,Cost Efficiency,3.78
+India,Asia,2025,premium,Petrol_ICE,Honda Petrol,197195,27797,12.1,845,0.13,Brand Trust,3.87
+India,Asia,2025,premium,Diesel_ICE,Ford ICE,126361,47195,17.7,973,0.13,Fuel Economy,4.15
+India,Asia,2025,commercial,EV,Tesla,761908,60785,0.0,407,0.02,Sustainability,4.13
+India,Asia,2025,commercial,Petrol_ICE,Honda Petrol,343994,33009,14.1,692,0.12,Refueling Convenience,4.59
+India,Asia,2025,commercial,Diesel_ICE,Hyundai Diesel,70798,52832,17.9,843,0.14,Fuel Economy,4.33
+Italy,Europe,2025,mass_market,EV,Tesla,896693,47466,0.0,308,0.02,Sustainability,3.67
+Italy,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,136452,42057,15.1,850,0.16,Brand Trust,4.35
+Italy,Europe,2025,mass_market,Diesel_ICE,Ford ICE,66322,51478,16.3,1047,0.11,Fuel Economy,3.66
+Italy,Europe,2025,premium,EV,BMW EV,856506,71133,0.0,392,0.03,Tech Features,3.83
+Italy,Europe,2025,premium,Petrol_ICE,Toyota Petrol,339182,42403,12.4,644,0.15,Initial Affordability,4.79
+Italy,Europe,2025,premium,Diesel_ICE,Hyundai Diesel,68051,31477,15.8,1026,0.1,Torque / Hauling,4.59
+Italy,Europe,2025,commercial,EV,Volkswagen EV,346073,49308,0.0,300,0.03,Sustainability,4.15
+Italy,Europe,2025,commercial,Petrol_ICE,Honda Petrol,158128,24056,13.0,787,0.13,Refueling Convenience,3.9
+Italy,Europe,2025,commercial,Diesel_ICE,Volkswagen Diesel,117166,39506,19.8,724,0.11,Long Distance Highway Range,3.71
+Japan,Asia,2025,mass_market,EV,Hyundai,391797,62281,0.0,487,0.03,Tech Features,4.0
+Japan,Asia,2025,mass_market,Petrol_ICE,Honda Petrol,126126,42664,15.9,819,0.14,Refueling Convenience,4.79
+Japan,Asia,2025,mass_market,Diesel_ICE,Volkswagen Diesel,140849,34095,20.1,793,0.12,Long Distance Highway Range,3.72
+Japan,Asia,2025,premium,EV,BYD,501739,60425,0.0,365,0.04,Cost Efficiency,4.17
+Japan,Asia,2025,premium,Petrol_ICE,Toyota Petrol,344958,24683,14.6,710,0.14,Brand Trust,4.61
+Japan,Asia,2025,premium,Diesel_ICE,Volkswagen Diesel,53196,31681,21.7,744,0.11,Long Distance Highway Range,4.36
+Japan,Asia,2025,commercial,EV,Hyundai,342258,41869,0.0,381,0.04,Tech Features,4.05
+Japan,Asia,2025,commercial,Petrol_ICE,Honda Petrol,184923,39322,17.2,776,0.18,Brand Trust,3.77
+Japan,Asia,2025,commercial,Diesel_ICE,Hyundai Diesel,34023,37581,19.3,1009,0.1,Fuel Economy,4.08
+Norway,Europe,2025,mass_market,EV,Volkswagen EV,461811,37887,0.0,482,0.05,Cost Efficiency,4.12
+Norway,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,68756,26040,13.2,750,0.14,Brand Trust,4.18
+Norway,Europe,2025,mass_market,Diesel_ICE,Hyundai Diesel,147447,26181,19.2,1042,0.11,Long Distance Highway Range,4.17
+Norway,Europe,2025,premium,EV,BMW EV,184786,69650,0.0,471,0.03,Tech Features,4.59
+Norway,Europe,2025,premium,Petrol_ICE,Toyota Petrol,142834,37065,16.7,733,0.14,Initial Affordability,4.28
+Norway,Europe,2025,premium,Diesel_ICE,Hyundai Diesel,83116,32257,18.4,1042,0.12,Torque / Hauling,4.1
+Norway,Europe,2025,commercial,EV,BYD,392959,65232,0.0,541,0.03,Tech Features,3.94
+Norway,Europe,2025,commercial,Petrol_ICE,Toyota Petrol,40901,42444,15.5,767,0.13,Initial Affordability,4.17
+Norway,Europe,2025,commercial,Diesel_ICE,Hyundai Diesel,60201,47463,17.5,1043,0.13,Torque / Hauling,4.37
+Spain,Europe,2025,mass_market,EV,Hyundai,752864,39603,0.0,525,0.05,Sustainability,4.35
+Spain,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,234454,24818,16.5,728,0.14,Initial Affordability,3.92
+Spain,Europe,2025,mass_market,Diesel_ICE,Volkswagen Diesel,147534,46905,18.1,744,0.13,Torque / Hauling,3.68
+Spain,Europe,2025,premium,EV,BYD,995841,52898,0.0,309,0.04,Sustainability,3.94
+Spain,Europe,2025,premium,Petrol_ICE,Toyota Petrol,230195,24476,15.6,603,0.16,Initial Affordability,3.97
+Spain,Europe,2025,premium,Diesel_ICE,Hyundai Diesel,86833,50987,15.1,798,0.13,Long Distance Highway Range,4.15
+Spain,Europe,2025,commercial,EV,BYD,499261,73990,0.0,410,0.04,Cost Efficiency,3.62
+Spain,Europe,2025,commercial,Petrol_ICE,Toyota Petrol,375468,35689,13.7,607,0.16,Brand Trust,3.88
+Spain,Europe,2025,commercial,Diesel_ICE,Ford ICE,130828,51890,21.3,997,0.14,Long Distance Highway Range,4.41
+UK,Europe,2025,mass_market,EV,BYD,207536,67966,0.0,545,0.03,Tech Features,4.34
+UK,Europe,2025,mass_market,Petrol_ICE,Toyota Petrol,230271,33798,17.6,805,0.14,Initial Affordability,4.52
+UK,Europe,2025,mass_market,Diesel_ICE,Volkswagen Diesel,37616,25798,17.3,882,0.11,Torque / Hauling,4.76
+UK,Europe,2025,premium,EV,Volkswagen EV,706055,46110,0.0,405,0.04,Tech Features,3.97
+UK,Europe,2025,premium,Petrol_ICE,Honda Petrol,203402,22933,16.5,813,0.14,Brand Trust,4.23
+UK,Europe,2025,premium,Diesel_ICE,Hyundai Diesel,34773,29239,17.6,916,0.12,Fuel Economy,4.62
+UK,Europe,2025,commercial,EV,Volkswagen EV,428680,40586,0.0,306,0.02,Cost Efficiency,3.67
+UK,Europe,2025,commercial,Petrol_ICE,Toyota Petrol,389173,40711,13.5,819,0.16,Brand Trust,4.65
+UK,Europe,2025,commercial,Diesel_ICE,Hyundai Diesel,25785,31691,21.4,914,0.14,Torque / Hauling,4.0
+USA,North America,2025,mass_market,EV,Hyundai,936936,50511,0.0,325,0.03,Sustainability,3.97
+USA,North America,2025,mass_market,Petrol_ICE,Honda Petrol,159682,33386,12.0,689,0.13,Refueling Convenience,4.39
+USA,North America,2025,mass_market,Diesel_ICE,Volkswagen Diesel,57771,44567,21.0,808,0.14,Fuel Economy,3.7
+USA,North America,2025,premium,EV,Hyundai,538412,35615,0.0,300,0.03,Sustainability,3.71
+USA,North America,2025,premium,Petrol_ICE,Toyota Petrol,370838,40008,17.0,777,0.14,Initial Affordability,4.21
+USA,North America,2025,premium,Diesel_ICE,Ford ICE,31766,43640,20.6,747,0.14,Fuel Economy,3.73
+USA,North America,2025,commercial,EV,BMW EV,274113,46516,0.0,458,0.02,Tech Features,4.33
+USA,North America,2025,commercial,Petrol_ICE,Honda Petrol,154165,41197,12.3,669,0.14,Refueling Convenience,4.36
+USA,North America,2025,commercial,Diesel_ICE,Ford ICE,68634,46181,21.0,888,0.11,Torque / Hauling,4.69
+Australia,Oceania,2026,mass_market,EV,Volkswagen EV,750752,71942,0.0,377,0.03,Sustainability,3.8
+Australia,Oceania,2026,mass_market,Petrol_ICE,Toyota Petrol,336902,25596,15.0,852,0.14,Refueling Convenience,4.78
+Australia,Oceania,2026,mass_market,Diesel_ICE,Volkswagen Diesel,46105,38668,21.1,793,0.12,Long Distance Highway Range,4.09
+Australia,Oceania,2026,premium,EV,BYD,103608,41449,0.0,427,0.03,Cost Efficiency,3.93
+Australia,Oceania,2026,premium,Petrol_ICE,Honda Petrol,222774,24225,15.1,680,0.18,Initial Affordability,3.91
+Australia,Oceania,2026,premium,Diesel_ICE,Hyundai Diesel,62922,52812,17.9,884,0.11,Fuel Economy,4.7
+Australia,Oceania,2026,commercial,EV,BYD,292408,59277,0.0,482,0.04,Tech Features,3.68
+Australia,Oceania,2026,commercial,Petrol_ICE,Toyota Petrol,169553,46950,13.4,600,0.13,Initial Affordability,4.02
+Australia,Oceania,2026,commercial,Diesel_ICE,Hyundai Diesel,49474,35298,20.0,804,0.14,Torque / Hauling,3.73
+Austria,Europe,2026,mass_market,EV,BYD,1127752,41001,0.0,515,0.02,Cost Efficiency,3.7
+Austria,Europe,2026,mass_market,Petrol_ICE,Toyota Petrol,272117,39404,14.7,894,0.17,Initial Affordability,4.63
+Austria,Europe,2026,mass_market,Diesel_ICE,Ford ICE,48686,36445,15.2,1013,0.1,Fuel Economy,4.18
+Austria,Europe,2026,premium,EV,BYD,675720,59326,0.0,492,0.05,Cost Efficiency,4.63
+Austria,Europe,2026,premium,Petrol_ICE,Toyota Petrol,370090,21820,15.2,608,0.12,Refueling Convenience,3.88
+Austria,Europe,2026,premium,Diesel_ICE,Ford ICE,107850,36461,15.0,764,0.15,Long Distance Highway Range,3.88
+Austria,Europe,2026,commercial,EV,Tesla,395696,59658,0.0,482,0.03,Sustainability,4.05
+Austria,Europe,2026,commercial,Petrol_ICE,Honda Petrol,256597,32746,16.8,641,0.13,Brand Trust,4.01
+Austria,Europe,2026,commercial,Diesel_ICE,Volkswagen Diesel,56081,29368,17.2,906,0.14,Torque / Hauling,4.46
+Belgium,Europe,2026,mass_market,EV,Volkswagen EV,235728,49904,0.0,525,0.05,Cost Efficiency,3.65
+Belgium,Europe,2026,mass_market,Petrol_ICE,Honda Petrol,161684,48124,12.5,778,0.15,Initial Affordability,4.63
+Belgium,Europe,2026,mass_market,Diesel_ICE,Volkswagen Diesel,47634,25060,15.1,1035,0.11,Torque / Hauling,4.2
+Belgium,Europe,2026,premium,EV,Volkswagen EV,135696,68302,0.0,480,0.03,Tech Features,4.65
+Belgium,Europe,2026,premium,Petrol_ICE,Honda Petrol,49196,30691,15.3,695,0.16,Refueling Convenience,3.83
+Belgium,Europe,2026,premium,Diesel_ICE,Hyundai Diesel,20269,48327,19.5,938,0.13,Torque / Hauling,4.55
+Belgium,Europe,2026,commercial,EV,BYD,155040,46360,0.0,504,0.05,Tech Features,4.02
+Belgium,Europe,2026,commercial,Petrol_ICE,Toyota Petrol,79886,36931,17.1,818,0.18,Initial Affordability,4.2
+Belgium,Europe,2026,commercial,Diesel_ICE,Volkswagen Diesel,118247,37886,17.7,1033,0.12,Fuel Economy,4.35
+Canada,North America,2026,mass_market,EV,Hyundai,846112,58110,0.0,357,0.04,Sustainability,4.71
+Canada,North America,2026,mass_market,Petrol_ICE,Toyota Petrol,89768,35360,13.9,823,0.18,Refueling Convenience,3.78
+Canada,North America,2026,mass_market,Diesel_ICE,Volkswagen Diesel,138549,38204,16.7,796,0.11,Fuel Economy,4.39
+Canada,North America,2026,premium,EV,Volkswagen EV,153040,49271,0.0,355,0.04,Tech Features,4.51
+Canada,North America,2026,premium,Petrol_ICE,Honda Petrol,122203,25840,14.8,729,0.14,Refueling Convenience,4.66
+Canada,North America,2026,premium,Diesel_ICE,Volkswagen Diesel,35056,32382,15.5,902,0.1,Long Distance Highway Range,4.03
+Canada,North America,2026,commercial,EV,BMW EV,983400,39136,0.0,387,0.02,Cost Efficiency,3.71
+Canada,North America,2026,commercial,Petrol_ICE,Honda Petrol,296228,24920,14.4,736,0.14,Initial Affordability,3.79
+Canada,North America,2026,commercial,Diesel_ICE,Volkswagen Diesel,66567,50693,20.2,848,0.12,Long Distance Highway Range,4.26
+China,Asia,2026,mass_market,EV,BYD,497568,70089,0.0,539,0.03,Cost Efficiency,3.99
+China,Asia,2026,mass_market,Petrol_ICE,Toyota Petrol,91272,23085,12.7,731,0.18,Brand Trust,4.66
+China,Asia,2026,mass_market,Diesel_ICE,Ford ICE,92004,48630,18.3,946,0.14,Torque / Hauling,4.11
+China,Asia,2026,premium,EV,Volkswagen EV,1089800,42853,0.0,476,0.03,Cost Efficiency,3.83
+China,Asia,2026,premium,Petrol_ICE,Toyota Petrol,51049,20786,13.8,675,0.17,Brand Trust,4.47
+China,Asia,2026,premium,Diesel_ICE,Ford ICE,109774,50241,21.9,817,0.13,Torque / Hauling,4.25
+China,Asia,2026,commercial,EV,Tesla,311840,49141,0.0,348,0.02,Sustainability,4.41
+China,Asia,2026,commercial,Petrol_ICE,Toyota Petrol,181753,27367,14.8,733,0.16,Brand Trust,4.5
+China,Asia,2026,commercial,Diesel_ICE,Ford ICE,117489,50933,18.4,820,0.12,Fuel Economy,3.73
+France,Europe,2026,mass_market,EV,Volkswagen EV,923912,69305,0.0,329,0.03,Sustainability,4.23
+France,Europe,2026,mass_market,Petrol_ICE,Honda Petrol,55116,40045,16.1,835,0.13,Refueling Convenience,3.63
+France,Europe,2026,mass_market,Diesel_ICE,Volkswagen Diesel,21447,30499,16.1,886,0.15,Fuel Economy,4.48
+France,Europe,2026,premium,EV,Volkswagen EV,1148488,61111,0.0,377,0.04,Sustainability,4.72
+France,Europe,2026,premium,Petrol_ICE,Toyota Petrol,261421,41637,17.4,877,0.13,Brand Trust,4.34
+France,Europe,2026,premium,Diesel_ICE,Ford ICE,96268,44506,18.9,718,0.12,Fuel Economy,4.62
+France,Europe,2026,commercial,EV,Hyundai,177592,74434,0.0,421,0.04,Cost Efficiency,4.24
+France,Europe,2026,commercial,Petrol_ICE,Toyota Petrol,338254,45986,13.7,753,0.12,Initial Affordability,4.6
+France,Europe,2026,commercial,Diesel_ICE,Hyundai Diesel,121311,26641,18.0,713,0.11,Torque / Hauling,4.72
+Germany,Europe,2026,mass_market,EV,BYD,42904,45358,0.0,468,0.04,Cost Efficiency,3.75
+Germany,Europe,2026,mass_market,Petrol_ICE,Toyota Petrol,215037,31998,14.9,603,0.13,Refueling Convenience,4.06
+Germany,Europe,2026,mass_market,Diesel_ICE,Volkswagen Diesel,43885,32288,20.1,829,0.11,Torque / Hauling,4.31
+Germany,Europe,2026,premium,EV,Hyundai,272504,39732,0.0,310,0.04,Tech Features,3.9
+Germany,Europe,2026,premium,Petrol_ICE,Honda Petrol,266305,22567,14.0,827,0.13,Initial Affordability,4.06
+Germany,Europe,2026,premium,Diesel_ICE,Volkswagen Diesel,78217,48508,18.9,1005,0.1,Fuel Economy,4.2
+Germany,Europe,2026,commercial,EV,BMW EV,147520,56797,0.0,343,0.03,Sustainability,4.7
+Germany,Europe,2026,commercial,Petrol_ICE,Toyota Petrol,212409,27557,15.7,893,0.15,Refueling Convenience,4.41
+Germany,Europe,2026,commercial,Diesel_ICE,Hyundai Diesel,36751,41453,17.0,738,0.12,Fuel Economy,4.54
+India,Asia,2026,mass_market,EV,Volkswagen EV,1110808,56304,0.0,395,0.05,Sustainability,3.83
+India,Asia,2026,mass_market,Petrol_ICE,Honda Petrol,162989,37400,14.3,833,0.15,Brand Trust,4.55
+India,Asia,2026,mass_market,Diesel_ICE,Volkswagen Diesel,119504,33371,17.7,986,0.1,Long Distance Highway Range,4.61
+India,Asia,2026,premium,EV,Tesla,666824,66406,0.0,528,0.02,Tech Features,4.63
+India,Asia,2026,premium,Petrol_ICE,Honda Petrol,63548,24497,14.1,671,0.13,Initial Affordability,3.72
+India,Asia,2026,premium,Diesel_ICE,Volkswagen Diesel,129826,41577,19.0,860,0.13,Long Distance Highway Range,3.94
+India,Asia,2026,commercial,EV,BMW EV,1177808,74121,0.0,393,0.03,Tech Features,3.92
+India,Asia,2026,commercial,Petrol_ICE,Honda Petrol,389903,22880,17.5,617,0.17,Initial Affordability,3.8
+India,Asia,2026,commercial,Diesel_ICE,Ford ICE,40938,51396,21.0,885,0.13,Torque / Hauling,3.62
+Italy,Europe,2026,mass_market,EV,BMW EV,78104,58121,0.0,528,0.04,Sustainability,3.61
+Italy,Europe,2026,mass_market,Petrol_ICE,Honda Petrol,242630,32569,15.5,615,0.12,Refueling Convenience,4.52
+Italy,Europe,2026,mass_market,Diesel_ICE,Hyundai Diesel,58790,28044,19.5,1029,0.14,Long Distance Highway Range,3.76
+Italy,Europe,2026,premium,EV,Volkswagen EV,45232,52143,0.0,459,0.03,Tech Features,3.82
+Italy,Europe,2026,premium,Petrol_ICE,Honda Petrol,362245,47200,13.4,625,0.18,Brand Trust,3.99
+Italy,Europe,2026,premium,Diesel_ICE,Hyundai Diesel,135044,31380,21.9,850,0.15,Torque / Hauling,4.52
+Italy,Europe,2026,commercial,EV,BMW EV,1056344,39711,0.0,405,0.02,Sustainability,4.58
+Italy,Europe,2026,commercial,Petrol_ICE,Toyota Petrol,226720,46331,15.2,843,0.14,Brand Trust,3.76
+Italy,Europe,2026,commercial,Diesel_ICE,Hyundai Diesel,146949,40585,18.1,757,0.12,Torque / Hauling,4.11
+Japan,Asia,2026,mass_market,EV,Tesla,836064,51928,0.0,499,0.05,Tech Features,3.85
+Japan,Asia,2026,mass_market,Petrol_ICE,Honda Petrol,144824,20654,13.9,820,0.14,Brand Trust,3.84
+Japan,Asia,2026,mass_market,Diesel_ICE,Ford ICE,122509,51627,19.5,991,0.15,Torque / Hauling,4.56
+Japan,Asia,2026,premium,EV,Hyundai,784976,72521,0.0,462,0.04,Cost Efficiency,3.99
+Japan,Asia,2026,premium,Petrol_ICE,Toyota Petrol,205837,28963,15.6,806,0.14,Initial Affordability,3.95
+Japan,Asia,2026,premium,Diesel_ICE,Volkswagen Diesel,145560,48718,15.8,950,0.1,Fuel Economy,4.29
+Japan,Asia,2026,commercial,EV,Volkswagen EV,955368,40565,0.0,476,0.03,Tech Features,3.91
+Japan,Asia,2026,commercial,Petrol_ICE,Honda Petrol,117360,24567,16.0,838,0.14,Brand Trust,4.22
+Japan,Asia,2026,commercial,Diesel_ICE,Hyundai Diesel,117326,36991,20.0,779,0.13,Long Distance Highway Range,4.64
+Norway,Europe,2026,mass_market,EV,Volkswagen EV,408120,72341,0.0,457,0.05,Sustainability,4.43
+Norway,Europe,2026,mass_market,Petrol_ICE,Toyota Petrol,231480,45329,14.6,675,0.15,Brand Trust,4.65
+Norway,Europe,2026,mass_market,Diesel_ICE,Volkswagen Diesel,55633,37118,18.9,906,0.14,Long Distance Highway Range,4.08
+Norway,Europe,2026,premium,EV,BMW EV,164032,38057,0.0,376,0.04,Cost Efficiency,3.83
+Norway,Europe,2026,premium,Petrol_ICE,Honda Petrol,224381,47043,16.3,618,0.15,Brand Trust,3.61
+Norway,Europe,2026,premium,Diesel_ICE,Volkswagen Diesel,130267,49058,20.7,754,0.15,Torque / Hauling,4.0
+Norway,Europe,2026,commercial,EV,Hyundai,961120,48833,0.0,487,0.04,Cost Efficiency,3.72
+Norway,Europe,2026,commercial,Petrol_ICE,Honda Petrol,239757,44660,12.2,864,0.12,Refueling Convenience,3.76
+Norway,Europe,2026,commercial,Diesel_ICE,Hyundai Diesel,50294,36059,21.6,870,0.1,Torque / Hauling,3.61
+Spain,Europe,2026,mass_market,EV,BMW EV,343032,74520,0.0,342,0.04,Sustainability,3.9
+Spain,Europe,2026,mass_market,Petrol_ICE,Toyota Petrol,95390,36645,17.4,818,0.16,Brand Trust,3.67
+Spain,Europe,2026,mass_market,Diesel_ICE,Volkswagen Diesel,141189,34174,17.0,855,0.11,Long Distance Highway Range,4.3
+Spain,Europe,2026,premium,EV,Hyundai,676456,40724,0.0,427,0.04,Cost Efficiency,3.67
+Spain,Europe,2026,premium,Petrol_ICE,Toyota Petrol,257364,27394,14.7,752,0.15,Refueling Convenience,3.68
+Spain,Europe,2026,premium,Diesel_ICE,Hyundai Diesel,42307,53513,18.3,897,0.12,Long Distance Highway Range,4.02
+Spain,Europe,2026,commercial,EV,BYD,702144,45748,0.0,318,0.05,Tech Features,4.28
+Spain,Europe,2026,commercial,Petrol_ICE,Honda Petrol,267369,36698,16.7,882,0.14,Brand Trust,4.43
+Spain,Europe,2026,commercial,Diesel_ICE,Volkswagen Diesel,41128,54094,17.0,950,0.11,Fuel Economy,4.09
+UK,Europe,2026,mass_market,EV,Tesla,1190304,73885,0.0,496,0.02,Cost Efficiency,3.87
+UK,Europe,2026,mass_market,Petrol_ICE,Honda Petrol,142413,38244,12.5,810,0.16,Initial Affordability,4.62
+UK,Europe,2026,mass_market,Diesel_ICE,Hyundai Diesel,73655,51875,20.5,887,0.14,Torque / Hauling,4.56
+UK,Europe,2026,premium,EV,BMW EV,1066912,71160,0.0,476,0.04,Sustainability,3.91
+UK,Europe,2026,premium,Petrol_ICE,Honda Petrol,271226,49791,13.1,745,0.17,Brand Trust,4.45
+UK,Europe,2026,premium,Diesel_ICE,Volkswagen Diesel,111176,25988,21.1,1009,0.15,Torque / Hauling,4.05
+UK,Europe,2026,commercial,EV,Tesla,166936,49266,0.0,500,0.03,Tech Features,4.32
+UK,Europe,2026,commercial,Petrol_ICE,Honda Petrol,290449,38820,14.1,603,0.17,Initial Affordability,4.67
+UK,Europe,2026,commercial,Diesel_ICE,Ford ICE,122669,36422,15.8,865,0.11,Fuel Economy,4.06
+USA,North America,2026,mass_market,EV,Volkswagen EV,678976,57200,0.0,405,0.03,Sustainability,3.61
+USA,North America,2026,mass_market,Petrol_ICE,Toyota Petrol,308667,41387,14.5,673,0.15,Refueling Convenience,4.54
+USA,North America,2026,mass_market,Diesel_ICE,Hyundai Diesel,91102,25317,20.0,951,0.12,Fuel Economy,4.41
+USA,North America,2026,premium,EV,BYD,307816,63716,0.0,478,0.03,Tech Features,3.64
+USA,North America,2026,premium,Petrol_ICE,Honda Petrol,310001,31620,13.9,602,0.13,Refueling Convenience,3.74
+USA,North America,2026,premium,Diesel_ICE,Hyundai Diesel,97428,43763,17.4,706,0.11,Torque / Hauling,3.75
+USA,North America,2026,commercial,EV,Hyundai,1142520,72939,0.0,368,0.04,Cost Efficiency,3.86
+USA,North America,2026,commercial,Petrol_ICE,Honda Petrol,200020,30775,17.9,858,0.15,Initial Affordability,3.68
+USA,North America,2026,commercial,Diesel_ICE,Ford ICE,56269,40138,16.9,995,0.1,Torque / Hauling,4.61
